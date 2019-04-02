@@ -1,0 +1,989 @@
+name;value;year;lastValue;rank
+Eólica Terrestre;5612,027063;2013;0;7
+Eólica Terrestre;5583,394271;2014;5612,027063;8
+Eólica Terrestre;5554,76148;2015;5583,394271;8
+Eólica Terrestre;5526,128689;2016;5554,76148;8
+Eólica Terrestre;5497,495898;2017;5526,128689;8
+Eólica Terrestre;5468,863107;2018;5497,495898;8
+Eólica Terrestre;5440,230316;2019;5468,863107;8
+Eólica Terrestre;5411,597525;2020;5440,230316;8
+Eólica Terrestre;5391,554571;2021;5411,597525;8
+Eólica Terrestre;5371,511617;2022;5391,554571;8
+Eólica Terrestre;5351,468663;2023;5371,511617;8
+Eólica Terrestre;5331,425709;2024;5351,468663;7
+Eólica Terrestre;5311,382756;2025;5331,425709;8
+Eólica Terrestre;5291,339802;2026;5311,382756;8
+Eólica Terrestre;5271,296848;2027;5291,339802;8
+Eólica Terrestre;5251,253894;2028;5271,296848;8
+Eólica Terrestre;5231,21094;2029;5251,253894;8
+Eólica Terrestre;5211,167987;2030;5231,21094;8
+Eólica Terrestre;5171,082079;2031;5211,167987;8
+Eólica Terrestre;5130,996171;2032;5171,082079;8
+Eólica Terrestre;5090,910264;2033;5130,996171;8
+Eólica Terrestre;5050,824356;2034;5090,910264;8
+Eólica Terrestre;5010,738449;2035;5050,824356;8
+Eólica Terrestre;4970,652541;2036;5010,738449;8
+Eólica Terrestre;4930,566634;2037;4970,652541;8
+Eólica Terrestre;4890,480726;2038;4930,566634;8
+Eólica Terrestre;4850,394818;2039;4890,480726;8
+Eólica Terrestre;4810,308911;2040;4850,394818;8
+Eólica Terrestre;4770,223003;2041;4810,308911;8
+Eólica Terrestre;4730,137096;2042;4770,223003;8
+Eólica Terrestre;4690,051188;2043;4730,137096;8
+Eólica Terrestre;4649,96528;2044;4690,051188;8
+Eólica Terrestre;4609,879373;2045;4649,96528;8
+Eólica Terrestre;4569,793465;2046;4609,879373;8
+Eólica Terrestre;4529,707558;2047;4569,793465;8
+Eólica Terrestre;4489,62165;2048;4529,707558;8
+Eólica Terrestre;4449,535742;2049;4489,62165;8
+Eólica Terrestre;4409,449835;2050;4449,535742;8
+Eólica Marítima;13909,80993;2013;0;20
+Eólica Marítima;13571,943;2014;13909,80993;20
+Eólica Marítima;13234,07606;2015;13571,943;20
+Eólica Marítima;12896,20913;2016;13234,07606;20
+Eólica Marítima;12558,34219;2017;12896,20913;20
+Eólica Marítima;12220,47526;2018;12558,34219;20
+Eólica Marítima;11882,60832;2019;12220,47526;19
+Eólica Marítima;11544,74139;2020;11882,60832;18
+Eólica Marítima;11424,48366;2021;11544,74139;18
+Eólica Marítima;11304,22594;2022;11424,48366;18
+Eólica Marítima;11183,96822;2023;11304,22594;18
+Eólica Marítima;11063,71049;2024;11183,96822;17
+Eólica Marítima;10943,45277;2025;11063,71049;18
+Eólica Marítima;10823,19505;2026;10943,45277;18
+Eólica Marítima;10702,93733;2027;10823,19505;18
+Eólica Marítima;10582,6796;2028;10702,93733;18
+Eólica Marítima;10462,42188;2029;10582,6796;18
+Eólica Marítima;10342,16416;2030;10462,42188;18
+Eólica Marítima;10261,99234;2031;10342,16416;18
+Eólica Marítima;10181,82053;2032;10261,99234;17
+Eólica Marítima;10101,64871;2033;10181,82053;17
+Eólica Marítima;10021,4769;2034;10101,64871;17
+Eólica Marítima;9941,305082;2035;10021,4769;17
+Eólica Marítima;9861,133267;2036;9941,305082;17
+Eólica Marítima;9780,961452;2037;9861,133267;18
+Eólica Marítima;9700,789637;2038;9780,961452;18
+Eólica Marítima;9620,617821;2039;9700,789637;18
+Eólica Marítima;9540,446006;2040;9620,617821;18
+Eólica Marítima;9500,360099;2041;9540,446006;18
+Eólica Marítima;9460,274191;2042;9500,360099;18
+Eólica Marítima;9420,188284;2043;9460,274191;18
+Eólica Marítima;9380,102376;2044;9420,188284;18
+Eólica Marítima;9340,016468;2045;9380,102376;18
+Eólica Marítima;9299,930561;2046;9340,016468;18
+Eólica Marítima;9259,844653;2047;9299,930561;18
+Eólica Marítima;9219,758746;2048;9259,844653;18
+Eólica Marítima;9179,672838;2049;9219,758746;18
+Eólica Marítima;9139,58693;2050;9179,672838;18
+Sistema Fotovoltaico Comercial 0,1-2 MW;4523,452071;2013;0;6
+Sistema Fotovoltaico Comercial 0,1-2 MW;4390,409363;2014;4523,452071;6
+Sistema Fotovoltaico Comercial 0,1-2 MW;4257,366655;2015;4390,409363;6
+Sistema Fotovoltaico Comercial 0,1-2 MW;4124,323947;2016;4257,366655;6
+Sistema Fotovoltaico Comercial 0,1-2 MW;3991,281239;2017;4124,323947;6
+Sistema Fotovoltaico Comercial 0,1-2 MW;3858,238531;2018;3991,281239;6
+Sistema Fotovoltaico Comercial 0,1-2 MW;3725,195823;2019;3858,238531;6
+Sistema Fotovoltaico Comercial 0,1-2 MW;3592,153115;2020;3725,195823;6
+Sistema Fotovoltaico Comercial 0,1-2 MW;3556,231584;2021;3592,153115;6
+Sistema Fotovoltaico Comercial 0,1-2 MW;3520,310053;2022;3556,231584;6
+Sistema Fotovoltaico Comercial 0,1-2 MW;3484,388522;2023;3520,310053;6
+Sistema Fotovoltaico Comercial 0,1-2 MW;3448,46699;2024;3484,388522;5
+Sistema Fotovoltaico Comercial 0,1-2 MW;3412,545459;2025;3448,46699;6
+Sistema Fotovoltaico Comercial 0,1-2 MW;3376,623928;2026;3412,545459;5
+Sistema Fotovoltaico Comercial 0,1-2 MW;3340,702397;2027;3376,623928;5
+Sistema Fotovoltaico Comercial 0,1-2 MW;3304,780866;2028;3340,702397;5
+Sistema Fotovoltaico Comercial 0,1-2 MW;3268,859335;2029;3304,780866;5
+Sistema Fotovoltaico Comercial 0,1-2 MW;3232,937804;2030;3268,859335;5
+Sistema Fotovoltaico Comercial 0,1-2 MW;3212,981397;2031;3232,937804;5
+Sistema Fotovoltaico Comercial 0,1-2 MW;3193,024991;2032;3212,981397;5
+Sistema Fotovoltaico Comercial 0,1-2 MW;3173,068585;2033;3193,024991;5
+Sistema Fotovoltaico Comercial 0,1-2 MW;3153,112179;2034;3173,068585;5
+Sistema Fotovoltaico Comercial 0,1-2 MW;3133,155773;2035;3153,112179;5
+Sistema Fotovoltaico Comercial 0,1-2 MW;3113,199366;2036;3133,155773;5
+Sistema Fotovoltaico Comercial 0,1-2 MW;3093,24296;2037;3113,199366;5
+Sistema Fotovoltaico Comercial 0,1-2 MW;3073,286554;2038;3093,24296;5
+Sistema Fotovoltaico Comercial 0,1-2 MW;3053,330148;2039;3073,286554;5
+Sistema Fotovoltaico Comercial 0,1-2 MW;3033,373742;2040;3053,330148;5
+Sistema Fotovoltaico Comercial 0,1-2 MW;3017,408617;2041;3033,373742;5
+Sistema Fotovoltaico Comercial 0,1-2 MW;3001,443492;2042;3017,408617;5
+Sistema Fotovoltaico Comercial 0,1-2 MW;2985,478367;2043;3001,443492;5
+Sistema Fotovoltaico Comercial 0,1-2 MW;2969,513242;2044;2985,478367;5
+Sistema Fotovoltaico Comercial 0,1-2 MW;2953,548117;2045;2969,513242;5
+Sistema Fotovoltaico Comercial 0,1-2 MW;2937,582992;2046;2953,548117;5
+Sistema Fotovoltaico Comercial 0,1-2 MW;2921,617867;2047;2937,582992;5
+Sistema Fotovoltaico Comercial 0,1-2 MW;2905,652742;2048;2921,617867;5
+Sistema Fotovoltaico Comercial 0,1-2 MW;2889,687617;2049;2905,652742;5
+Sistema Fotovoltaico Comercial 0,1-2 MW;2873,722492;2050;2889,687617;5
+Sistema Fotovoltaico Comercial >2 MW sem rastreador solar;4031,194051;2013;0;5
+Sistema Fotovoltaico Comercial >2 MW sem rastreador solar;3911,455614;2014;4031,194051;5
+Sistema Fotovoltaico Comercial >2 MW sem rastreador solar;3791,717177;2015;3911,455614;5
+Sistema Fotovoltaico Comercial >2 MW sem rastreador solar;3671,97874;2016;3791,717177;5
+Sistema Fotovoltaico Comercial >2 MW sem rastreador solar;3552,240303;2017;3671,97874;5
+Sistema Fotovoltaico Comercial >2 MW sem rastreador solar;3432,501866;2018;3552,240303;5
+Sistema Fotovoltaico Comercial >2 MW sem rastreador solar;3312,763428;2019;3432,501866;4
+Sistema Fotovoltaico Comercial >2 MW sem rastreador solar;3193,024991;2020;3312,763428;4
+Sistema Fotovoltaico Comercial >2 MW sem rastreador solar;3129,164491;2021;3193,024991;4
+Sistema Fotovoltaico Comercial >2 MW sem rastreador solar;3065,303992;2022;3129,164491;4
+Sistema Fotovoltaico Comercial >2 MW sem rastreador solar;3001,443492;2023;3065,303992;4
+Sistema Fotovoltaico Comercial >2 MW sem rastreador solar;2937,582992;2024;3001,443492;3
+Sistema Fotovoltaico Comercial >2 MW sem rastreador solar;2873,722492;2025;2937,582992;4
+Sistema Fotovoltaico Comercial >2 MW sem rastreador solar;2809,861992;2026;2873,722492;4
+Sistema Fotovoltaico Comercial >2 MW sem rastreador solar;2746,001492;2027;2809,861992;4
+Sistema Fotovoltaico Comercial >2 MW sem rastreador solar;2682,140993;2028;2746,001492;4
+Sistema Fotovoltaico Comercial >2 MW sem rastreador solar;2618,280493;2029;2682,140993;4
+Sistema Fotovoltaico Comercial >2 MW sem rastreador solar;2554,419993;2030;2618,280493;4
+Sistema Fotovoltaico Comercial >2 MW sem rastreador solar;2530,472306;2031;2554,419993;4
+Sistema Fotovoltaico Comercial >2 MW sem rastreador solar;2506,524618;2032;2530,472306;4
+Sistema Fotovoltaico Comercial >2 MW sem rastreador solar;2482,576931;2033;2506,524618;4
+Sistema Fotovoltaico Comercial >2 MW sem rastreador solar;2458,629243;2034;2482,576931;4
+Sistema Fotovoltaico Comercial >2 MW sem rastreador solar;2434,681556;2035;2458,629243;4
+Sistema Fotovoltaico Comercial >2 MW sem rastreador solar;2410,733868;2036;2434,681556;4
+Sistema Fotovoltaico Comercial >2 MW sem rastreador solar;2386,786181;2037;2410,733868;4
+Sistema Fotovoltaico Comercial >2 MW sem rastreador solar;2362,838493;2038;2386,786181;4
+Sistema Fotovoltaico Comercial >2 MW sem rastreador solar;2338,890806;2039;2362,838493;4
+Sistema Fotovoltaico Comercial >2 MW sem rastreador solar;2314,943119;2040;2338,890806;4
+Sistema Fotovoltaico Comercial >2 MW sem rastreador solar;2290,995431;2041;2314,943119;4
+Sistema Fotovoltaico Comercial >2 MW sem rastreador solar;2267,047744;2042;2290,995431;4
+Sistema Fotovoltaico Comercial >2 MW sem rastreador solar;2243,100056;2043;2267,047744;4
+Sistema Fotovoltaico Comercial >2 MW sem rastreador solar;2219,152369;2044;2243,100056;4
+Sistema Fotovoltaico Comercial >2 MW sem rastreador solar;2195,204681;2045;2219,152369;4
+Sistema Fotovoltaico Comercial >2 MW sem rastreador solar;2171,256994;2046;2195,204681;4
+Sistema Fotovoltaico Comercial >2 MW sem rastreador solar;2147,309307;2047;2171,256994;4
+Sistema Fotovoltaico Comercial >2 MW sem rastreador solar;2123,361619;2048;2147,309307;4
+Sistema Fotovoltaico Comercial >2 MW sem rastreador solar;2099,413932;2049;2123,361619;4
+Sistema Fotovoltaico Comercial >2 MW sem rastreador solar;2075,466244;2050;2099,413932;4
+Sistema Fotovoltaico Residencial <100 kW;6000,226129;2013;0;8
+Sistema Fotovoltaico Residencial <100 kW;5228,578423;2014;6000,226129;7
+Sistema Fotovoltaico Residencial <100 kW;4456,930717;2015;5228,578423;7
+Sistema Fotovoltaico Residencial <100 kW;4323,888009;2016;4456,930717;7
+Sistema Fotovoltaico Residencial <100 kW;4190,845301;2017;4323,888009;7
+Sistema Fotovoltaico Residencial <100 kW;4057,802593;2018;4190,845301;7
+Sistema Fotovoltaico Residencial <100 kW;3924,759885;2019;4057,802593;7
+Sistema Fotovoltaico Residencial <100 kW;3791,717177;2020;3924,759885;7
+Sistema Fotovoltaico Residencial <100 kW;4346,505269;2021;3791,717177;7
+Sistema Fotovoltaico Residencial <100 kW;4302,601176;2022;4346,505269;7
+Sistema Fotovoltaico Residencial <100 kW;4258,697082;2023;4302,601176;7
+Sistema Fotovoltaico Residencial <100 kW;4214,792988;2024;4258,697082;6
+Sistema Fotovoltaico Residencial <100 kW;4170,888895;2025;4214,792988;7
+Sistema Fotovoltaico Residencial <100 kW;4126,984801;2026;4170,888895;7
+Sistema Fotovoltaico Residencial <100 kW;4083,080708;2027;4126,984801;7
+Sistema Fotovoltaico Residencial <100 kW;4039,176614;2028;4083,080708;7
+Sistema Fotovoltaico Residencial <100 kW;3995,27252;2029;4039,176614;7
+Sistema Fotovoltaico Residencial <100 kW;3951,368427;2030;3995,27252;7
+Sistema Fotovoltaico Residencial <100 kW;3927,420739;2031;3951,368427;7
+Sistema Fotovoltaico Residencial <100 kW;3903,473052;2032;3927,420739;7
+Sistema Fotovoltaico Residencial <100 kW;3879,525364;2033;3903,473052;7
+Sistema Fotovoltaico Residencial <100 kW;3855,577677;2034;3879,525364;7
+Sistema Fotovoltaico Residencial <100 kW;3831,629989;2035;3855,577677;7
+Sistema Fotovoltaico Residencial <100 kW;3807,682302;2036;3831,629989;7
+Sistema Fotovoltaico Residencial <100 kW;3783,734615;2037;3807,682302;7
+Sistema Fotovoltaico Residencial <100 kW;3759,786927;2038;3783,734615;7
+Sistema Fotovoltaico Residencial <100 kW;3735,83924;2039;3759,786927;7
+Sistema Fotovoltaico Residencial <100 kW;3711,891552;2040;3735,83924;7
+Sistema Fotovoltaico Residencial <100 kW;3691,935146;2041;3711,891552;7
+Sistema Fotovoltaico Residencial <100 kW;3671,97874;2042;3691,935146;7
+Sistema Fotovoltaico Residencial <100 kW;3652,022334;2043;3671,97874;7
+Sistema Fotovoltaico Residencial <100 kW;3632,065927;2044;3652,022334;7
+Sistema Fotovoltaico Residencial <100 kW;3612,109521;2045;3632,065927;7
+Sistema Fotovoltaico Residencial <100 kW;3592,153115;2046;3612,109521;7
+Sistema Fotovoltaico Residencial <100 kW;3572,196709;2047;3592,153115;7
+Sistema Fotovoltaico Residencial <100 kW;3552,240303;2048;3572,196709;7
+Sistema Fotovoltaico Residencial <100 kW;3532,283897;2049;3552,240303;7
+Sistema Fotovoltaico Residencial <100 kW;3512,32749;2050;3532,283897;7
+Solar Térmico;22448,10825;2013;0;25
+Solar Térmico;21818,18685;2014;22448,10825;25
+Solar Térmico;21188,26544;2015;21818,18685;25
+Solar Térmico;20558,34404;2016;21188,26544;25
+Solar Térmico;19928,42263;2017;20558,34404;25
+Solar Térmico;19298,50123;2018;19928,42263;25
+Solar Térmico;18668,57982;2019;19298,50123;25
+Solar Térmico;18038,65842;2020;18668,57982;26
+Solar Térmico;17758,05706;2021;18038,65842;25
+Solar Térmico;17477,45571;2022;17758,05706;25
+Solar Térmico;17196,85436;2023;17477,45571;25
+Solar Térmico;16916,253;2024;17196,85436;24
+Solar Térmico;16635,65165;2025;16916,253;25
+Solar Térmico;16355,0503;2026;16635,65165;25
+Solar Térmico;16074,44894;2027;16355,0503;25
+Solar Térmico;15793,84759;2028;16074,44894;25
+Solar Térmico;15513,24624;2029;15793,84759;25
+Solar Térmico;15232,64488;2030;15513,24624;25
+Solar Térmico;15112,38716;2031;15232,64488;25
+Solar Térmico;14992,12944;2032;15112,38716;25
+Solar Térmico;14871,87172;2033;14992,12944;25
+Solar Térmico;14751,61399;2034;14871,87172;25
+Solar Térmico;14631,35627;2035;14751,61399;26
+Solar Térmico;14511,09855;2036;14631,35627;26
+Solar Térmico;14390,84082;2037;14511,09855;26
+Solar Térmico;14270,5831;2038;14390,84082;26
+Solar Térmico;14150,32538;2039;14270,5831;26
+Solar Térmico;14030,06766;2040;14150,32538;26
+Solar Térmico;13989,98175;2041;14030,06766;26
+Solar Térmico;13949,89584;2042;13989,98175;26
+Solar Térmico;13909,80993;2043;13949,89584;26
+Solar Térmico;13869,72403;2044;13909,80993;26
+Solar Térmico;13829,63812;2045;13869,72403;26
+Solar Térmico;13789,55221;2046;13829,63812;26
+Solar Térmico;13749,4663;2047;13789,55221;26
+Solar Térmico;13709,3804;2048;13749,4663;26
+Solar Térmico;13669,29449;2049;13709,3804;26
+Solar Térmico;13629,20858;2050;13669,29449;26
+Hidrelétrica com reservatório >100 MW;8818,89967;2013;0;13
+Hidrelétrica com reservatório >100 MW;8818,89967;2014;8818,89967;13
+Hidrelétrica com reservatório >100 MW;8818,89967;2015;8818,89967;13
+Hidrelétrica com reservatório >100 MW;8818,89967;2016;8818,89967;13
+Hidrelétrica com reservatório >100 MW;8818,89967;2017;8818,89967;13
+Hidrelétrica com reservatório >100 MW;8818,89967;2018;8818,89967;13
+Hidrelétrica com reservatório >100 MW;8818,89967;2019;8818,89967;13
+Hidrelétrica com reservatório >100 MW;8818,89967;2020;8818,89967;13
+Hidrelétrica com reservatório >100 MW;8818,89967;2021;8818,89967;13
+Hidrelétrica com reservatório >100 MW;8818,89967;2022;8818,89967;13
+Hidrelétrica com reservatório >100 MW;8818,89967;2023;8818,89967;13
+Hidrelétrica com reservatório >100 MW;8818,89967;2024;8818,89967;12
+Hidrelétrica com reservatório >100 MW;8818,89967;2025;8818,89967;13
+Hidrelétrica com reservatório >100 MW;8818,89967;2026;8818,89967;13
+Hidrelétrica com reservatório >100 MW;8818,89967;2027;8818,89967;13
+Hidrelétrica com reservatório >100 MW;8818,89967;2028;8818,89967;13
+Hidrelétrica com reservatório >100 MW;8818,89967;2029;8818,89967;13
+Hidrelétrica com reservatório >100 MW;8818,89967;2030;8818,89967;13
+Hidrelétrica com reservatório >100 MW;8818,89967;2031;8818,89967;13
+Hidrelétrica com reservatório >100 MW;8818,89967;2032;8818,89967;13
+Hidrelétrica com reservatório >100 MW;8818,89967;2033;8818,89967;13
+Hidrelétrica com reservatório >100 MW;8818,89967;2034;8818,89967;13
+Hidrelétrica com reservatório >100 MW;8818,89967;2035;8818,89967;14
+Hidrelétrica com reservatório >100 MW;8818,89967;2036;8818,89967;14
+Hidrelétrica com reservatório >100 MW;8818,89967;2037;8818,89967;14
+Hidrelétrica com reservatório >100 MW;8818,89967;2038;8818,89967;15
+Hidrelétrica com reservatório >100 MW;8818,89967;2039;8818,89967;16
+Hidrelétrica com reservatório >100 MW;8818,89967;2040;8818,89967;16
+Hidrelétrica com reservatório >100 MW;8818,89967;2041;8818,89967;16
+Hidrelétrica com reservatório >100 MW;8818,89967;2042;8818,89967;16
+Hidrelétrica com reservatório >100 MW;8818,89967;2043;8818,89967;16
+Hidrelétrica com reservatório >100 MW;8818,89967;2044;8818,89967;16
+Hidrelétrica com reservatório >100 MW;8818,89967;2045;8818,89967;16
+Hidrelétrica com reservatório >100 MW;8818,89967;2046;8818,89967;16
+Hidrelétrica com reservatório >100 MW;8818,89967;2047;8818,89967;16
+Hidrelétrica com reservatório >100 MW;8818,89967;2048;8818,89967;16
+Hidrelétrica com reservatório >100 MW;8818,89967;2049;8818,89967;16
+Hidrelétrica com reservatório >100 MW;8818,89967;2050;8818,89967;16
+Hidrelétrica com reservatório <10 MW;17637,79934;2013;0;23
+Hidrelétrica com reservatório <10 MW;17683,61181;2014;17637,79934;23
+Hidrelétrica com reservatório <10 MW;17729,42427;2015;17683,61181;23
+Hidrelétrica com reservatório <10 MW;17775,23674;2016;17729,42427;24
+Hidrelétrica com reservatório <10 MW;17821,0492;2017;17775,23674;24
+Hidrelétrica com reservatório <10 MW;17866,86167;2018;17821,0492;24
+Hidrelétrica com reservatório <10 MW;17912,67413;2019;17866,86167;24
+Hidrelétrica com reservatório <10 MW;17958,4866;2020;17912,67413;25
+Hidrelétrica com reservatório <10 MW;17966,50378;2021;17958,4866;26
+Hidrelétrica com reservatório <10 MW;17974,52096;2022;17966,50378;26
+Hidrelétrica com reservatório <10 MW;17982,53814;2023;17974,52096;26
+Hidrelétrica com reservatório <10 MW;17990,55533;2024;17982,53814;25
+Hidrelétrica com reservatório <10 MW;17998,57251;2025;17990,55533;26
+Hidrelétrica com reservatório <10 MW;18006,58969;2026;17998,57251;26
+Hidrelétrica com reservatório <10 MW;18014,60687;2027;18006,58969;26
+Hidrelétrica com reservatório <10 MW;18022,62405;2028;18014,60687;26
+Hidrelétrica com reservatório <10 MW;18030,64123;2029;18022,62405;26
+Hidrelétrica com reservatório <10 MW;18038,65842;2030;18030,64123;27
+Hidrelétrica com reservatório <10 MW;18038,65842;2031;18038,65842;27
+Hidrelétrica com reservatório <10 MW;18038,65842;2032;18038,65842;27
+Hidrelétrica com reservatório <10 MW;18038,65842;2033;18038,65842;27
+Hidrelétrica com reservatório <10 MW;18038,65842;2034;18038,65842;27
+Hidrelétrica com reservatório <10 MW;18038,65842;2035;18038,65842;27
+Hidrelétrica com reservatório <10 MW;18038,65842;2036;18038,65842;27
+Hidrelétrica com reservatório <10 MW;18038,65842;2037;18038,65842;27
+Hidrelétrica com reservatório <10 MW;18038,65842;2038;18038,65842;27
+Hidrelétrica com reservatório <10 MW;18038,65842;2039;18038,65842;27
+Hidrelétrica com reservatório <10 MW;18038,65842;2040;18038,65842;27
+Hidrelétrica com reservatório <10 MW;18038,65842;2041;18038,65842;27
+Hidrelétrica com reservatório <10 MW;18038,65842;2042;18038,65842;27
+Hidrelétrica com reservatório <10 MW;18038,65842;2043;18038,65842;27
+Hidrelétrica com reservatório <10 MW;18038,65842;2044;18038,65842;27
+Hidrelétrica com reservatório <10 MW;18038,65842;2045;18038,65842;27
+Hidrelétrica com reservatório <10 MW;18038,65842;2046;18038,65842;27
+Hidrelétrica com reservatório <10 MW;18038,65842;2047;18038,65842;27
+Hidrelétrica com reservatório <10 MW;18038,65842;2048;18038,65842;27
+Hidrelétrica com reservatório <10 MW;18038,65842;2049;18038,65842;27
+Hidrelétrica com reservatório <10 MW;18038,65842;2050;18038,65842;27
+Oceânica Por Ondas;36398,00409;2013;0;27
+Oceânica Por Ondas;34513,96643;2014;36398,00409;27
+Oceânica Por Ondas;32629,92878;2015;34513,96643;27
+Oceânica Por Ondas;30745,89112;2016;32629,92878;27
+Oceânica Por Ondas;28861,85346;2017;30745,89112;28
+Oceânica Por Ondas;26977,81581;2018;28861,85346;28
+Oceânica Por Ondas;25093,77815;2019;26977,81581;28
+Oceânica Por Ondas;23209,74049;2020;25093,77815;28
+Oceânica Por Ondas;22684,6151;2021;23209,74049;28
+Oceânica Por Ondas;22159,48972;2022;22684,6151;27
+Oceânica Por Ondas;21634,36433;2023;22159,48972;27
+Oceânica Por Ondas;21109,23894;2024;21634,36433;26
+Oceânica Por Ondas;20584,11355;2025;21109,23894;27
+Oceânica Por Ondas;20058,98816;2026;20584,11355;27
+Oceânica Por Ondas;19533,86277;2027;20058,98816;27
+Oceânica Por Ondas;19008,73738;2028;19533,86277;27
+Oceânica Por Ondas;18483,61199;2029;19008,73738;27
+Oceânica Por Ondas;17958,4866;2030;18483,61199;26
+Oceânica Por Ondas;17224,91449;2031;17958,4866;26
+Oceânica Por Ondas;16491,34238;2032;17224,91449;26
+Oceânica Por Ondas;15757,77027;2033;16491,34238;26
+Oceânica Por Ondas;15024,19816;2034;15757,77027;26
+Oceânica Por Ondas;14290,62606;2035;15024,19816;25
+Oceânica Por Ondas;13557,05395;2036;14290,62606;25
+Oceânica Por Ondas;12823,48184;2037;13557,05395;25
+Oceânica Por Ondas;12089,90973;2038;12823,48184;25
+Oceânica Por Ondas;11356,33762;2039;12089,90973;23
+Oceânica Por Ondas;10622,76551;2040;11356,33762;21
+Oceânica Por Ondas;10482,46483;2041;10622,76551;21
+Oceânica Por Ondas;10342,16416;2042;10482,46483;21
+Oceânica Por Ondas;10201,86348;2043;10342,16416;20
+Oceânica Por Ondas;10061,5628;2044;10201,86348;20
+Oceânica Por Ondas;9921,262128;2045;10061,5628;20
+Oceânica Por Ondas;9780,961452;2046;9921,262128;20
+Oceânica Por Ondas;9640,660775;2047;9780,961452;20
+Oceânica Por Ondas;9500,360099;2048;9640,660775;20
+Oceânica Por Ondas;9360,059422;2049;9500,360099;20
+Oceânica Por Ondas;9219,758746;2050;9360,059422;19
+Oceânica Por Marés;42891,92112;2013;0;28
+Oceânica Por Marés;39284,18944;2014;42891,92112;28
+Oceânica Por Marés;35676,45775;2015;39284,18944;28
+Oceânica Por Marés;32068,72607;2016;35676,45775;28
+Oceânica Por Marés;28460,99439;2017;32068,72607;27
+Oceânica Por Marés;24853,26271;2018;28460,99439;27
+Oceânica Por Marés;21245,53102;2019;24853,26271;26
+Oceânica Por Marés;17637,79934;2020;21245,53102;24
+Oceânica Por Marés;17116,68254;2021;17637,79934;24
+Oceânica Por Marés;16595,56574;2022;17116,68254;24
+Oceânica Por Marés;16074,44894;2023;16595,56574;24
+Oceânica Por Marés;15553,33214;2024;16074,44894;23
+Oceânica Por Marés;15032,21535;2025;15553,33214;24
+Oceânica Por Marés;14511,09855;2026;15032,21535;24
+Oceânica Por Marés;13989,98175;2027;14511,09855;24
+Oceânica Por Marés;13468,86495;2028;13989,98175;24
+Oceânica Por Marés;12947,74815;2029;13468,86495;24
+Oceânica Por Marés;12426,63135;2030;12947,74815;23
+Oceânica Por Marés;12025,77228;2031;12426,63135;22
+Oceânica Por Marés;11624,9132;2032;12025,77228;21
+Oceânica Por Marés;11224,05413;2033;11624,9132;20
+Oceânica Por Marés;10823,19505;2034;11224,05413;20
+Oceânica Por Marés;10422,33597;2035;10823,19505;19
+Oceânica Por Marés;10021,4769;2036;10422,33597;18
+Oceânica Por Marés;9620,617821;2037;10021,4769;17
+Oceânica Por Marés;9219,758746;2038;9620,617821;16
+Oceânica Por Marés;8818,89967;2039;9219,758746;15
+Oceânica Por Marés;8418,040594;2040;8818,89967;14
+Oceânica Por Marés;8337,868779;2041;8418,040594;14
+Oceânica Por Marés;8257,696963;2042;8337,868779;14
+Oceânica Por Marés;8177,525148;2043;8257,696963;14
+Oceânica Por Marés;8097,353333;2044;8177,525148;14
+Oceânica Por Marés;8017,181518;2045;8097,353333;13
+Oceânica Por Marés;7937,009703;2046;8017,181518;13
+Oceânica Por Marés;7856,837888;2047;7937,009703;13
+Oceânica Por Marés;7776,666072;2048;7856,837888;13
+Oceânica Por Marés;7696,494257;2049;7776,666072;13
+Oceânica Por Marés;7616,322442;2050;7696,494257;12
+Turbina a Gás de Avançada (CCGT);3407,302145;2013;0;3
+Turbina a Gás de Avançada (CCGT);3407,302145;2014;3407,302145;4
+Turbina a Gás de Avançada (CCGT);3407,302145;2015;3407,302145;4
+Turbina a Gás de Avançada (CCGT);3407,302145;2016;3407,302145;4
+Turbina a Gás de Avançada (CCGT);3407,302145;2017;3407,302145;4
+Turbina a Gás de Avançada (CCGT);3407,302145;2018;3407,302145;4
+Turbina a Gás de Avançada (CCGT);3407,302145;2019;3407,302145;5
+Turbina a Gás de Avançada (CCGT);3407,302145;2020;3407,302145;5
+Turbina a Gás de Avançada (CCGT);3407,302145;2021;3407,302145;5
+Turbina a Gás de Avançada (CCGT);3407,302145;2022;3407,302145;5
+Turbina a Gás de Avançada (CCGT);3407,302145;2023;3407,302145;5
+Turbina a Gás de Avançada (CCGT);3407,302145;2024;3407,302145;4
+Turbina a Gás de Avançada (CCGT);3407,302145;2025;3407,302145;5
+Turbina a Gás de Avançada (CCGT);3407,302145;2026;3407,302145;6
+Turbina a Gás de Avançada (CCGT);3407,302145;2027;3407,302145;6
+Turbina a Gás de Avançada (CCGT);3407,302145;2028;3407,302145;6
+Turbina a Gás de Avançada (CCGT);3407,302145;2029;3407,302145;6
+Turbina a Gás de Avançada (CCGT);3407,302145;2030;3407,302145;6
+Turbina a Gás de Avançada (CCGT);3407,302145;2031;3407,302145;6
+Turbina a Gás de Avançada (CCGT);3407,302145;2032;3407,302145;6
+Turbina a Gás de Avançada (CCGT);3407,302145;2033;3407,302145;6
+Turbina a Gás de Avançada (CCGT);3407,302145;2034;3407,302145;6
+Turbina a Gás de Avançada (CCGT);3407,302145;2035;3407,302145;6
+Turbina a Gás de Avançada (CCGT);3407,302145;2036;3407,302145;6
+Turbina a Gás de Avançada (CCGT);3407,302145;2037;3407,302145;6
+Turbina a Gás de Avançada (CCGT);3407,302145;2038;3407,302145;6
+Turbina a Gás de Avançada (CCGT);3407,302145;2039;3407,302145;6
+Turbina a Gás de Avançada (CCGT);3407,302145;2040;3407,302145;6
+Turbina a Gás de Avançada (CCGT);3407,302145;2041;3407,302145;6
+Turbina a Gás de Avançada (CCGT);3407,302145;2042;3407,302145;6
+Turbina a Gás de Avançada (CCGT);3407,302145;2043;3407,302145;6
+Turbina a Gás de Avançada (CCGT);3407,302145;2044;3407,302145;6
+Turbina a Gás de Avançada (CCGT);3407,302145;2045;3407,302145;6
+Turbina a Gás de Avançada (CCGT);3407,302145;2046;3407,302145;6
+Turbina a Gás de Avançada (CCGT);3407,302145;2047;3407,302145;6
+Turbina a Gás de Avançada (CCGT);3407,302145;2048;3407,302145;6
+Turbina a Gás de Avançada (CCGT);3407,302145;2049;3407,302145;6
+Turbina a Gás de Avançada (CCGT);3407,302145;2050;3407,302145;6
+Carvão Pulverizado Supercrítico;6413,745214;2013;0;10
+Carvão Pulverizado Supercrítico;6413,745214;2014;6413,745214;10
+Carvão Pulverizado Supercrítico;6413,745214;2015;6413,745214;10
+Carvão Pulverizado Supercrítico;6413,745214;2016;6413,745214;10
+Carvão Pulverizado Supercrítico;6413,745214;2017;6413,745214;10
+Carvão Pulverizado Supercrítico;6413,745214;2018;6413,745214;10
+Carvão Pulverizado Supercrítico;6413,745214;2019;6413,745214;10
+Carvão Pulverizado Supercrítico;6413,745214;2020;6413,745214;10
+Carvão Pulverizado Supercrítico;6413,745214;2021;6413,745214;10
+Carvão Pulverizado Supercrítico;6413,745214;2022;6413,745214;10
+Carvão Pulverizado Supercrítico;6413,745214;2023;6413,745214;10
+Carvão Pulverizado Supercrítico;6413,745214;2024;6413,745214;9
+Carvão Pulverizado Supercrítico;6413,745214;2025;6413,745214;10
+Carvão Pulverizado Supercrítico;6413,745214;2026;6413,745214;10
+Carvão Pulverizado Supercrítico;6413,745214;2027;6413,745214;10
+Carvão Pulverizado Supercrítico;6413,745214;2028;6413,745214;10
+Carvão Pulverizado Supercrítico;6413,745214;2029;6413,745214;10
+Carvão Pulverizado Supercrítico;6413,745214;2030;6413,745214;10
+Carvão Pulverizado Supercrítico;6413,745214;2031;6413,745214;10
+Carvão Pulverizado Supercrítico;6413,745214;2032;6413,745214;10
+Carvão Pulverizado Supercrítico;6413,745214;2033;6413,745214;10
+Carvão Pulverizado Supercrítico;6413,745214;2034;6413,745214;10
+Carvão Pulverizado Supercrítico;6413,745214;2035;6413,745214;10
+Carvão Pulverizado Supercrítico;6413,745214;2036;6413,745214;10
+Carvão Pulverizado Supercrítico;6413,745214;2037;6413,745214;10
+Carvão Pulverizado Supercrítico;6413,745214;2038;6413,745214;10
+Carvão Pulverizado Supercrítico;6413,745214;2039;6413,745214;10
+Carvão Pulverizado Supercrítico;6413,745214;2040;6413,745214;10
+Carvão Pulverizado Supercrítico;6413,745214;2041;6413,745214;10
+Carvão Pulverizado Supercrítico;6413,745214;2042;6413,745214;10
+Carvão Pulverizado Supercrítico;6413,745214;2043;6413,745214;10
+Carvão Pulverizado Supercrítico;6413,745214;2044;6413,745214;10
+Carvão Pulverizado Supercrítico;6413,745214;2045;6413,745214;10
+Carvão Pulverizado Supercrítico;6413,745214;2046;6413,745214;10
+Carvão Pulverizado Supercrítico;6413,745214;2047;6413,745214;10
+Carvão Pulverizado Supercrítico;6413,745214;2048;6413,745214;10
+Carvão Pulverizado Supercrítico;6413,745214;2049;6413,745214;10
+Carvão Pulverizado Supercrítico;6413,745214;2050;6413,745214;10
+Lignito Pulverizado Supercrítico;8017,181518;2013;0;12
+Lignito Pulverizado Supercrítico;8017,181518;2014;8017,181518;12
+Lignito Pulverizado Supercrítico;8017,181518;2015;8017,181518;12
+Lignito Pulverizado Supercrítico;8017,181518;2016;8017,181518;12
+Lignito Pulverizado Supercrítico;8017,181518;2017;8017,181518;12
+Lignito Pulverizado Supercrítico;8017,181518;2018;8017,181518;12
+Lignito Pulverizado Supercrítico;8017,181518;2019;8017,181518;12
+Lignito Pulverizado Supercrítico;8017,181518;2020;8017,181518;12
+Lignito Pulverizado Supercrítico;8017,181518;2021;8017,181518;12
+Lignito Pulverizado Supercrítico;8017,181518;2022;8017,181518;12
+Lignito Pulverizado Supercrítico;8017,181518;2023;8017,181518;12
+Lignito Pulverizado Supercrítico;8017,181518;2024;8017,181518;11
+Lignito Pulverizado Supercrítico;8017,181518;2025;8017,181518;12
+Lignito Pulverizado Supercrítico;8017,181518;2026;8017,181518;12
+Lignito Pulverizado Supercrítico;8017,181518;2027;8017,181518;12
+Lignito Pulverizado Supercrítico;8017,181518;2028;8017,181518;12
+Lignito Pulverizado Supercrítico;8017,181518;2029;8017,181518;12
+Lignito Pulverizado Supercrítico;8017,181518;2030;8017,181518;12
+Lignito Pulverizado Supercrítico;8017,181518;2031;8017,181518;12
+Lignito Pulverizado Supercrítico;8017,181518;2032;8017,181518;12
+Lignito Pulverizado Supercrítico;8017,181518;2033;8017,181518;12
+Lignito Pulverizado Supercrítico;8017,181518;2034;8017,181518;12
+Lignito Pulverizado Supercrítico;8017,181518;2035;8017,181518;12
+Lignito Pulverizado Supercrítico;8017,181518;2036;8017,181518;12
+Lignito Pulverizado Supercrítico;8017,181518;2037;8017,181518;12
+Lignito Pulverizado Supercrítico;8017,181518;2038;8017,181518;12
+Lignito Pulverizado Supercrítico;8017,181518;2039;8017,181518;12
+Lignito Pulverizado Supercrítico;8017,181518;2040;8017,181518;12
+Lignito Pulverizado Supercrítico;8017,181518;2041;8017,181518;12
+Lignito Pulverizado Supercrítico;8017,181518;2042;8017,181518;12
+Lignito Pulverizado Supercrítico;8017,181518;2043;8017,181518;13
+Lignito Pulverizado Supercrítico;8017,181518;2044;8017,181518;13
+Lignito Pulverizado Supercrítico;8017,181518;2045;8017,181518;13
+Lignito Pulverizado Supercrítico;8017,181518;2046;8017,181518;14
+Lignito Pulverizado Supercrítico;8017,181518;2047;8017,181518;14
+Lignito Pulverizado Supercrítico;8017,181518;2048;8017,181518;15
+Lignito Pulverizado Supercrítico;8017,181518;2049;8017,181518;15
+Lignito Pulverizado Supercrítico;8017,181518;2050;8017,181518;15
+Leito Fluidizado Supercrítico;7616,322442;2013;0;11
+Leito Fluidizado Supercrítico;7616,322442;2014;7616,322442;11
+Leito Fluidizado Supercrítico;7616,322442;2015;7616,322442;11
+Leito Fluidizado Supercrítico;7616,322442;2016;7616,322442;11
+Leito Fluidizado Supercrítico;7616,322442;2017;7616,322442;11
+Leito Fluidizado Supercrítico;7616,322442;2018;7616,322442;11
+Leito Fluidizado Supercrítico;7616,322442;2019;7616,322442;11
+Leito Fluidizado Supercrítico;7616,322442;2020;7616,322442;11
+Leito Fluidizado Supercrítico;7616,322442;2021;7616,322442;11
+Leito Fluidizado Supercrítico;7616,322442;2022;7616,322442;11
+Leito Fluidizado Supercrítico;7616,322442;2023;7616,322442;11
+Leito Fluidizado Supercrítico;7616,322442;2024;7616,322442;10
+Leito Fluidizado Supercrítico;7616,322442;2025;7616,322442;11
+Leito Fluidizado Supercrítico;7616,322442;2026;7616,322442;11
+Leito Fluidizado Supercrítico;7616,322442;2027;7616,322442;11
+Leito Fluidizado Supercrítico;7616,322442;2028;7616,322442;11
+Leito Fluidizado Supercrítico;7616,322442;2029;7616,322442;11
+Leito Fluidizado Supercrítico;7616,322442;2030;7616,322442;11
+Leito Fluidizado Supercrítico;7616,322442;2031;7616,322442;11
+Leito Fluidizado Supercrítico;7616,322442;2032;7616,322442;11
+Leito Fluidizado Supercrítico;7616,322442;2033;7616,322442;11
+Leito Fluidizado Supercrítico;7616,322442;2034;7616,322442;11
+Leito Fluidizado Supercrítico;7616,322442;2035;7616,322442;11
+Leito Fluidizado Supercrítico;7616,322442;2036;7616,322442;11
+Leito Fluidizado Supercrítico;7616,322442;2037;7616,322442;11
+Leito Fluidizado Supercrítico;7616,322442;2038;7616,322442;11
+Leito Fluidizado Supercrítico;7616,322442;2039;7616,322442;11
+Leito Fluidizado Supercrítico;7616,322442;2040;7616,322442;11
+Leito Fluidizado Supercrítico;7616,322442;2041;7616,322442;11
+Leito Fluidizado Supercrítico;7616,322442;2042;7616,322442;11
+Leito Fluidizado Supercrítico;7616,322442;2043;7616,322442;11
+Leito Fluidizado Supercrítico;7616,322442;2044;7616,322442;11
+Leito Fluidizado Supercrítico;7616,322442;2045;7616,322442;11
+Leito Fluidizado Supercrítico;7616,322442;2046;7616,322442;11
+Leito Fluidizado Supercrítico;7616,322442;2047;7616,322442;12
+Leito Fluidizado Supercrítico;7616,322442;2048;7616,322442;12
+Leito Fluidizado Supercrítico;7616,322442;2049;7616,322442;12
+Leito Fluidizado Supercrítico;7616,322442;2050;7616,322442;12
+Ciclo Integrado de Gaseificação com Carvão (IGCC);10021,4769;2013;0;14
+Ciclo Integrado de Gaseificação com Carvão (IGCC);9906,945733;2014;10021,4769;14
+Ciclo Integrado de Gaseificação com Carvão (IGCC);9792,414568;2015;9906,945733;14
+Ciclo Integrado de Gaseificação com Carvão (IGCC);9677,883404;2016;9792,414568;14
+Ciclo Integrado de Gaseificação com Carvão (IGCC);9563,352239;2017;9677,883404;14
+Ciclo Integrado de Gaseificação com Carvão (IGCC);9448,821075;2018;9563,352239;14
+Ciclo Integrado de Gaseificação com Carvão (IGCC);9334,28991;2019;9448,821075;14
+Ciclo Integrado de Gaseificação com Carvão (IGCC);9219,758746;2020;9334,28991;14
+Ciclo Integrado de Gaseificação com Carvão (IGCC);9219,758746;2021;9219,758746;14
+Ciclo Integrado de Gaseificação com Carvão (IGCC);9219,758746;2022;9219,758746;14
+Ciclo Integrado de Gaseificação com Carvão (IGCC);9219,758746;2023;9219,758746;14
+Ciclo Integrado de Gaseificação com Carvão (IGCC);9219,758746;2024;9219,758746;13
+Ciclo Integrado de Gaseificação com Carvão (IGCC);9219,758746;2025;9219,758746;14
+Ciclo Integrado de Gaseificação com Carvão (IGCC);9219,758746;2026;9219,758746;14
+Ciclo Integrado de Gaseificação com Carvão (IGCC);9219,758746;2027;9219,758746;14
+Ciclo Integrado de Gaseificação com Carvão (IGCC);9219,758746;2028;9219,758746;14
+Ciclo Integrado de Gaseificação com Carvão (IGCC);9219,758746;2029;9219,758746;14
+Ciclo Integrado de Gaseificação com Carvão (IGCC);9219,758746;2030;9219,758746;14
+Ciclo Integrado de Gaseificação com Carvão (IGCC);9219,758746;2031;9219,758746;14
+Ciclo Integrado de Gaseificação com Carvão (IGCC);9219,758746;2032;9219,758746;15
+Ciclo Integrado de Gaseificação com Carvão (IGCC);9219,758746;2033;9219,758746;15
+Ciclo Integrado de Gaseificação com Carvão (IGCC);9219,758746;2034;9219,758746;16
+Ciclo Integrado de Gaseificação com Carvão (IGCC);9219,758746;2035;9219,758746;16
+Ciclo Integrado de Gaseificação com Carvão (IGCC);9219,758746;2036;9219,758746;16
+Ciclo Integrado de Gaseificação com Carvão (IGCC);9219,758746;2037;9219,758746;16
+Ciclo Integrado de Gaseificação com Carvão (IGCC);9219,758746;2038;9219,758746;16
+Ciclo Integrado de Gaseificação com Carvão (IGCC);9219,758746;2039;9219,758746;17
+Ciclo Integrado de Gaseificação com Carvão (IGCC);9219,758746;2040;9219,758746;17
+Ciclo Integrado de Gaseificação com Carvão (IGCC);9179,672838;2041;9219,758746;17
+Ciclo Integrado de Gaseificação com Carvão (IGCC);9139,58693;2042;9179,672838;17
+Ciclo Integrado de Gaseificação com Carvão (IGCC);9099,501023;2043;9139,58693;17
+Ciclo Integrado de Gaseificação com Carvão (IGCC);9059,415115;2044;9099,501023;17
+Ciclo Integrado de Gaseificação com Carvão (IGCC);9019,329208;2045;9059,415115;17
+Ciclo Integrado de Gaseificação com Carvão (IGCC);8979,2433;2046;9019,329208;17
+Ciclo Integrado de Gaseificação com Carvão (IGCC);8939,157392;2047;8979,2433;17
+Ciclo Integrado de Gaseificação com Carvão (IGCC);8899,071485;2048;8939,157392;17
+Ciclo Integrado de Gaseificação com Carvão (IGCC);8858,985577;2049;8899,071485;17
+Ciclo Integrado de Gaseificação com Carvão (IGCC);8818,89967;2050;8858,985577;16
+Ciclo Integrado de Gaseificação com Lignito;12426,63135;2013;0;18
+Ciclo Integrado de Gaseificação com Lignito;12369,36577;2014;12426,63135;19
+Ciclo Integrado de Gaseificação com Lignito;12312,10019;2015;12369,36577;19
+Ciclo Integrado de Gaseificação com Lignito;12254,83461;2016;12312,10019;19
+Ciclo Integrado de Gaseificação com Lignito;12197,56902;2017;12254,83461;19
+Ciclo Integrado de Gaseificação com Lignito;12140,30344;2018;12197,56902;19
+Ciclo Integrado de Gaseificação com Lignito;12083,03786;2019;12140,30344;20
+Ciclo Integrado de Gaseificação com Lignito;12025,77228;2020;12083,03786;20
+Ciclo Integrado de Gaseificação com Lignito;12025,77228;2021;12025,77228;20
+Ciclo Integrado de Gaseificação com Lignito;12025,77228;2022;12025,77228;20
+Ciclo Integrado de Gaseificação com Lignito;12025,77228;2023;12025,77228;20
+Ciclo Integrado de Gaseificação com Lignito;12025,77228;2024;12025,77228;19
+Ciclo Integrado de Gaseificação com Lignito;12025,77228;2025;12025,77228;21
+Ciclo Integrado de Gaseificação com Lignito;12025,77228;2026;12025,77228;21
+Ciclo Integrado de Gaseificação com Lignito;12025,77228;2027;12025,77228;21
+Ciclo Integrado de Gaseificação com Lignito;12025,77228;2028;12025,77228;21
+Ciclo Integrado de Gaseificação com Lignito;12025,77228;2029;12025,77228;21
+Ciclo Integrado de Gaseificação com Lignito;12025,77228;2030;12025,77228;22
+Ciclo Integrado de Gaseificação com Lignito;12025,77228;2031;12025,77228;22
+Ciclo Integrado de Gaseificação com Lignito;12025,77228;2032;12025,77228;23
+Ciclo Integrado de Gaseificação com Lignito;12025,77228;2033;12025,77228;23
+Ciclo Integrado de Gaseificação com Lignito;12025,77228;2034;12025,77228;23
+Ciclo Integrado de Gaseificação com Lignito;12025,77228;2035;12025,77228;24
+Ciclo Integrado de Gaseificação com Lignito;12025,77228;2036;12025,77228;24
+Ciclo Integrado de Gaseificação com Lignito;12025,77228;2037;12025,77228;24
+Ciclo Integrado de Gaseificação com Lignito;12025,77228;2038;12025,77228;24
+Ciclo Integrado de Gaseificação com Lignito;12025,77228;2039;12025,77228;25
+Ciclo Integrado de Gaseificação com Lignito;12025,77228;2040;12025,77228;25
+Ciclo Integrado de Gaseificação com Lignito;12025,77228;2041;12025,77228;25
+Ciclo Integrado de Gaseificação com Lignito;12025,77228;2042;12025,77228;25
+Ciclo Integrado de Gaseificação com Lignito;12025,77228;2043;12025,77228;25
+Ciclo Integrado de Gaseificação com Lignito;12025,77228;2044;12025,77228;25
+Ciclo Integrado de Gaseificação com Lignito;12025,77228;2045;12025,77228;25
+Ciclo Integrado de Gaseificação com Lignito;12025,77228;2046;12025,77228;25
+Ciclo Integrado de Gaseificação com Lignito;12025,77228;2047;12025,77228;25
+Ciclo Integrado de Gaseificação com Lignito;12025,77228;2048;12025,77228;25
+Ciclo Integrado de Gaseificação com Lignito;12025,77228;2049;12025,77228;25
+Ciclo Integrado de Gaseificação com Lignito;12025,77228;2050;12025,77228;25
+Turbina com Forno a Grelha;11584,82729;2013;0;15
+Turbina com Forno a Grelha;11430,21022;2014;11584,82729;15
+Turbina com Forno a Grelha;11275,59315;2015;11430,21022;15
+Turbina com Forno a Grelha;11120,97608;2016;11275,59315;15
+Turbina com Forno a Grelha;10966,359;2017;11120,97608;15
+Turbina com Forno a Grelha;10811,74193;2018;10966,359;15
+Turbina com Forno a Grelha;10657,12486;2019;10811,74193;15
+Turbina com Forno a Grelha;10502,50779;2020;10657,12486;15
+Turbina com Forno a Grelha;10402,29302;2021;10502,50779;16
+Turbina com Forno a Grelha;10302,07825;2022;10402,29302;16
+Turbina com Forno a Grelha;10201,86348;2023;10302,07825;16
+Turbina com Forno a Grelha;10101,64871;2024;10201,86348;15
+Turbina com Forno a Grelha;10001,43394;2025;10101,64871;16
+Turbina com Forno a Grelha;9901,219175;2026;10001,43394;16
+Turbina com Forno a Grelha;9801,004406;2027;9901,219175;16
+Turbina com Forno a Grelha;9700,789637;2028;9801,004406;16
+Turbina com Forno a Grelha;9600,574868;2029;9700,789637;16
+Turbina com Forno a Grelha;9500,360099;2030;9600,574868;16
+Turbina com Forno a Grelha;9412,171102;2031;9500,360099;16
+Turbina com Forno a Grelha;9323,982105;2032;9412,171102;16
+Turbina com Forno a Grelha;9235,793109;2033;9323,982105;16
+Turbina com Forno a Grelha;9147,604112;2034;9235,793109;15
+Turbina com Forno a Grelha;9059,415115;2035;9147,604112;15
+Turbina com Forno a Grelha;8971,226119;2036;9059,415115;15
+Turbina com Forno a Grelha;8883,037122;2037;8971,226119;15
+Turbina com Forno a Grelha;8794,848125;2038;8883,037122;14
+Turbina com Forno a Grelha;8706,659128;2039;8794,848125;14
+Turbina com Forno a Grelha;8618,470132;2040;8706,659128;15
+Turbina com Forno a Grelha;8538,298317;2041;8618,470132;15
+Turbina com Forno a Grelha;8458,126501;2042;8538,298317;15
+Turbina com Forno a Grelha;8377,954686;2043;8458,126501;15
+Turbina com Forno a Grelha;8297,782871;2044;8377,954686;15
+Turbina com Forno a Grelha;8217,611056;2045;8297,782871;15
+Turbina com Forno a Grelha;8137,439241;2046;8217,611056;15
+Turbina com Forno a Grelha;8057,267425;2047;8137,439241;15
+Turbina com Forno a Grelha;7977,09561;2048;8057,267425;14
+Turbina com Forno a Grelha;7896,923795;2049;7977,09561;14
+Turbina com Forno a Grelha;7816,75198;2050;7896,923795;14
+Caldeira de leito Fluidizado com Turbina a Vapor;11865,42865;2013;0;16
+Caldeira de leito Fluidizado com Turbina a Vapor;11670,72567;2014;11865,42865;16
+Caldeira de leito Fluidizado com Turbina a Vapor;11476,02269;2015;11670,72567;16
+Caldeira de leito Fluidizado com Turbina a Vapor;11281,31971;2016;11476,02269;16
+Caldeira de leito Fluidizado com Turbina a Vapor;11086,61673;2017;11281,31971;16
+Caldeira de leito Fluidizado com Turbina a Vapor;10891,91375;2018;11086,61673;16
+Caldeira de leito Fluidizado com Turbina a Vapor;10697,21077;2019;10891,91375;16
+Caldeira de leito Fluidizado com Turbina a Vapor;10502,50779;2020;10697,21077;15
+Caldeira de leito Fluidizado com Turbina a Vapor;10386,25866;2021;10502,50779;15
+Caldeira de leito Fluidizado com Turbina a Vapor;10270,00952;2022;10386,25866;15
+Caldeira de leito Fluidizado com Turbina a Vapor;10153,76039;2023;10270,00952;15
+Caldeira de leito Fluidizado com Turbina a Vapor;10037,51126;2024;10153,76039;14
+Caldeira de leito Fluidizado com Turbina a Vapor;9921,262128;2025;10037,51126;15
+Caldeira de leito Fluidizado com Turbina a Vapor;9805,012996;2026;9921,262128;15
+Caldeira de leito Fluidizado com Turbina a Vapor;9688,763864;2027;9805,012996;15
+Caldeira de leito Fluidizado com Turbina a Vapor;9572,514732;2028;9688,763864;15
+Caldeira de leito Fluidizado com Turbina a Vapor;9456,2656;2029;9572,514732;15
+Caldeira de leito Fluidizado com Turbina a Vapor;9340,016468;2030;9456,2656;15
+Caldeira de leito Fluidizado com Turbina a Vapor;9231,784518;2031;9340,016468;15
+Caldeira de leito Fluidizado com Turbina a Vapor;9123,552567;2032;9231,784518;14
+Caldeira de leito Fluidizado com Turbina a Vapor;9015,320617;2033;9123,552567;14
+Caldeira de leito Fluidizado com Turbina a Vapor;8907,088666;2034;9015,320617;14
+Caldeira de leito Fluidizado com Turbina a Vapor;8798,856716;2035;8907,088666;13
+Caldeira de leito Fluidizado com Turbina a Vapor;8690,624765;2036;8798,856716;13
+Caldeira de leito Fluidizado com Turbina a Vapor;8582,392815;2037;8690,624765;13
+Caldeira de leito Fluidizado com Turbina a Vapor;8474,160864;2038;8582,392815;13
+Caldeira de leito Fluidizado com Turbina a Vapor;8365,928914;2039;8474,160864;13
+Caldeira de leito Fluidizado com Turbina a Vapor;8257,696963;2040;8365,928914;13
+Caldeira de leito Fluidizado com Turbina a Vapor;8165,499376;2041;8257,696963;13
+Caldeira de leito Fluidizado com Turbina a Vapor;8073,301789;2042;8165,499376;13
+Caldeira de leito Fluidizado com Turbina a Vapor;7981,104201;2043;8073,301789;12
+Caldeira de leito Fluidizado com Turbina a Vapor;7888,906614;2044;7981,104201;12
+Caldeira de leito Fluidizado com Turbina a Vapor;7796,709026;2045;7888,906614;12
+Caldeira de leito Fluidizado com Turbina a Vapor;7704,511439;2046;7796,709026;12
+Caldeira de leito Fluidizado com Turbina a Vapor;7612,313851;2047;7704,511439;11
+Caldeira de leito Fluidizado com Turbina a Vapor;7520,116264;2048;7612,313851;11
+Caldeira de leito Fluidizado com Turbina a Vapor;7427,918676;2049;7520,116264;11
+Caldeira de leito Fluidizado com Turbina a Vapor;7335,721089;2050;7427,918676;11
+Biomassa IGCC;19281,32155;2013;0;24
+Biomassa IGCC;18708,66573;2014;19281,32155;24
+Biomassa IGCC;18136,00991;2015;18708,66573;24
+Biomassa IGCC;17563,35408;2016;18136,00991;23
+Biomassa IGCC;16990,69826;2017;17563,35408;23
+Biomassa IGCC;16418,04244;2018;16990,69826;23
+Biomassa IGCC;15845,38661;2019;16418,04244;23
+Biomassa IGCC;15272,73079;2020;15845,38661;23
+Biomassa IGCC;15004,15521;2021;15272,73079;23
+Biomassa IGCC;14735,57963;2022;15004,15521;23
+Biomassa IGCC;14467,00405;2023;14735,57963;23
+Biomassa IGCC;14198,42847;2024;14467,00405;22
+Biomassa IGCC;13929,85289;2025;14198,42847;23
+Biomassa IGCC;13661,27731;2026;13929,85289;23
+Biomassa IGCC;13392,70173;2027;13661,27731;23
+Biomassa IGCC;13124,12614;2028;13392,70173;23
+Biomassa IGCC;12855,55056;2029;13124,12614;23
+Biomassa IGCC;12586,97498;2030;12855,55056;24
+Biomassa IGCC;12466,71726;2031;12586,97498;24
+Biomassa IGCC;12346,45954;2032;12466,71726;24
+Biomassa IGCC;12226,20181;2033;12346,45954;24
+Biomassa IGCC;12105,94409;2034;12226,20181;24
+Biomassa IGCC;11985,68637;2035;12105,94409;23
+Biomassa IGCC;11865,42865;2036;11985,68637;23
+Biomassa IGCC;11745,17092;2037;11865,42865;23
+Biomassa IGCC;11624,9132;2038;11745,17092;23
+Biomassa IGCC;11504,65548;2039;11624,9132;24
+Biomassa IGCC;11384,39776;2040;11504,65548;24
+Biomassa IGCC;11272,15721;2041;11384,39776;23
+Biomassa IGCC;11159,91667;2042;11272,15721;23
+Biomassa IGCC;11047,67613;2043;11159,91667;23
+Biomassa IGCC;10935,43559;2044;11047,67613;23
+Biomassa IGCC;10823,19505;2045;10935,43559;23
+Biomassa IGCC;10710,95451;2046;10823,19505;23
+Biomassa IGCC;10598,71397;2047;10710,95451;23
+Biomassa IGCC;10486,47343;2048;10598,71397;23
+Biomassa IGCC;10374,23288;2049;10486,47343;23
+Biomassa IGCC;10261,99234;2050;10374,23288;23
+Digestão Anaeróbica;15553,33214;2013;0;22
+Digestão Anaeróbica;15152,47307;2014;15553,33214;22
+Digestão Anaeróbica;14751,61399;2015;15152,47307;22
+Digestão Anaeróbica;14350,75492;2016;14751,61399;22
+Digestão Anaeróbica;13949,89584;2017;14350,75492;22
+Digestão Anaeróbica;13549,03677;2018;13949,89584;21
+Digestão Anaeróbica;13148,17769;2019;13549,03677;21
+Digestão Anaeróbica;12747,31861;2020;13148,17769;21
+Digestão Anaeróbica;12578,9578;2021;12747,31861;21
+Digestão Anaeróbica;12410,59699;2022;12578,9578;21
+Digestão Anaeróbica;12242,23618;2023;12410,59699;21
+Digestão Anaeróbica;12073,87537;2024;12242,23618;20
+Digestão Anaeróbica;11905,51455;2025;12073,87537;20
+Digestão Anaeróbica;11737,15374;2026;11905,51455;20
+Digestão Anaeróbica;11568,79293;2027;11737,15374;20
+Digestão Anaeróbica;11400,43212;2028;11568,79293;20
+Digestão Anaeróbica;11232,07131;2029;11400,43212;19
+Digestão Anaeróbica;11063,71049;2030;11232,07131;19
+Digestão Anaeróbica;10967,50432;2031;11063,71049;19
+Digestão Anaeróbica;10871,29814;2032;10967,50432;19
+Digestão Anaeróbica;10775,09196;2033;10871,29814;19
+Digestão Anaeróbica;10678,88578;2034;10775,09196;19
+Digestão Anaeróbica;10582,6796;2035;10678,88578;20
+Digestão Anaeróbica;10486,47343;2036;10582,6796;20
+Digestão Anaeróbica;10390,26725;2037;10486,47343;20
+Digestão Anaeróbica;10294,06107;2038;10390,26725;20
+Digestão Anaeróbica;10197,85489;2039;10294,06107;19
+Digestão Anaeróbica;10101,64871;2040;10197,85489;19
+Digestão Anaeróbica;10013,45972;2041;10101,64871;19
+Digestão Anaeróbica;9925,270719;2042;10013,45972;19
+Digestão Anaeróbica;9837,081722;2043;9925,270719;19
+Digestão Anaeróbica;9748,892726;2044;9837,081722;19
+Digestão Anaeróbica;9660,703729;2045;9748,892726;19
+Digestão Anaeróbica;9572,514732;2046;9660,703729;19
+Digestão Anaeróbica;9484,325736;2047;9572,514732;19
+Digestão Anaeróbica;9396,136739;2048;9484,325736;19
+Digestão Anaeróbica;9307,947742;2049;9396,136739;19
+Digestão Anaeróbica;9219,758746;2050;9307,947742;19
+Incineração de Lixo Municipal;24372,23181;2013;0;26
+Incineração de Lixo Municipal;24114,53669;2014;24372,23181;26
+Incineração de Lixo Municipal;23856,84157;2015;24114,53669;26
+Incineração de Lixo Municipal;23599,14645;2016;23856,84157;26
+Incineração de Lixo Municipal;23341,45133;2017;23599,14645;26
+Incineração de Lixo Municipal;23083,75621;2018;23341,45133;26
+Incineração de Lixo Municipal;22826,06109;2019;23083,75621;27
+Incineração de Lixo Municipal;22568,36597;2020;22826,06109;27
+Incineração de Lixo Municipal;22412,03093;2021;22568,36597;27
+Incineração de Lixo Municipal;22255,69589;2022;22412,03093;28
+Incineração de Lixo Municipal;22099,36085;2023;22255,69589;28
+Incineração de Lixo Municipal;21943,02581;2024;22099,36085;27
+Incineração de Lixo Municipal;21786,69077;2025;21943,02581;28
+Incineração de Lixo Municipal;21630,35574;2026;21786,69077;28
+Incineração de Lixo Municipal;21474,0207;2027;21630,35574;28
+Incineração de Lixo Municipal;21317,68566;2028;21474,0207;28
+Incineração de Lixo Municipal;21161,35062;2029;21317,68566;28
+Incineração de Lixo Municipal;21005,01558;2030;21161,35062;28
+Incineração de Lixo Municipal;20856,69772;2031;21005,01558;28
+Incineração de Lixo Municipal;20708,37986;2032;20856,69772;28
+Incineração de Lixo Municipal;20560,062;2033;20708,37986;28
+Incineração de Lixo Municipal;20411,74414;2034;20560,062;28
+Incineração de Lixo Municipal;20263,42629;2035;20411,74414;28
+Incineração de Lixo Municipal;20115,10843;2036;20263,42629;28
+Incineração de Lixo Municipal;19966,79057;2037;20115,10843;28
+Incineração de Lixo Municipal;19818,47271;2038;19966,79057;28
+Incineração de Lixo Municipal;19670,15485;2039;19818,47271;28
+Incineração de Lixo Municipal;19521,837;2040;19670,15485;28
+Incineração de Lixo Municipal;19389,5535;2041;19521,837;28
+Incineração de Lixo Municipal;19257,27001;2042;19389,5535;28
+Incineração de Lixo Municipal;19124,98651;2043;19257,27001;28
+Incineração de Lixo Municipal;18992,70302;2044;19124,98651;28
+Incineração de Lixo Municipal;18860,41952;2045;18992,70302;28
+Incineração de Lixo Municipal;18728,13603;2046;18860,41952;28
+Incineração de Lixo Municipal;18595,85253;2047;18728,13603;28
+Incineração de Lixo Municipal;18463,56904;2048;18595,85253;28
+Incineração de Lixo Municipal;18331,28554;2049;18463,56904;28
+Incineração de Lixo Municipal;18199,00205;2050;18331,28554;28
+Biomassa CHP;14711,52809;2013;0;21
+Biomassa CHP;14499,64543;2014;14711,52809;21
+Biomassa CHP;14287,76278;2015;14499,64543;21
+Biomassa CHP;14075,88012;2016;14287,76278;21
+Biomassa CHP;13863,99747;2017;14075,88012;21
+Biomassa CHP;13652,11481;2018;13863,99747;22
+Biomassa CHP;13440,23216;2019;13652,11481;22
+Biomassa CHP;13228,3495;2020;13440,23216;22
+Biomassa CHP;13104,08319;2021;13228,3495;22
+Biomassa CHP;12979,81688;2022;13104,08319;22
+Biomassa CHP;12855,55056;2023;12979,81688;22
+Biomassa CHP;12731,28425;2024;12855,55056;21
+Biomassa CHP;12607,01794;2025;12731,28425;22
+Biomassa CHP;12482,75162;2026;12607,01794;22
+Biomassa CHP;12358,48531;2027;12482,75162;22
+Biomassa CHP;12234,219;2028;12358,48531;22
+Biomassa CHP;12109,95268;2029;12234,219;22
+Biomassa CHP;11985,68637;2030;12109,95268;21
+Biomassa CHP;11889,48019;2031;11985,68637;21
+Biomassa CHP;11793,27401;2032;11889,48019;22
+Biomassa CHP;11697,06783;2033;11793,27401;22
+Biomassa CHP;11600,86166;2034;11697,06783;22
+Biomassa CHP;11504,65548;2035;11600,86166;22
+Biomassa CHP;11408,4493;2036;11504,65548;22
+Biomassa CHP;11312,24312;2037;11408,4493;21
+Biomassa CHP;11216,03694;2038;11312,24312;21
+Biomassa CHP;11119,83077;2039;11216,03694;21
+Biomassa CHP;11023,62459;2040;11119,83077;22
+Biomassa CHP;10939,44418;2041;11023,62459;22
+Biomassa CHP;10855,26378;2042;10939,44418;22
+Biomassa CHP;10771,08337;2043;10855,26378;22
+Biomassa CHP;10686,90296;2044;10771,08337;22
+Biomassa CHP;10602,72256;2045;10686,90296;22
+Biomassa CHP;10518,54215;2046;10602,72256;22
+Biomassa CHP;10434,36175;2047;10518,54215;22
+Biomassa CHP;10350,18134;2048;10434,36175;22
+Biomassa CHP;10266,00093;2049;10350,18134;22
+Biomassa CHP;10181,82053;2050;10266,00093;21
+Co-combustão de biomassa e retrofit para queima de carvão (forno de carvão ou leito fluidizado);2004,295379;2013;0;1
+Co-combustão de biomassa e retrofit para queima de carvão (forno de carvão ou leito fluidizado);1981,389147;2014;2004,295379;3
+Co-combustão de biomassa e retrofit para queima de carvão (forno de carvão ou leito fluidizado);1958,482914;2015;1981,389147;3
+Co-combustão de biomassa e retrofit para queima de carvão (forno de carvão ou leito fluidizado);1935,576681;2016;1958,482914;3
+Co-combustão de biomassa e retrofit para queima de carvão (forno de carvão ou leito fluidizado);1912,670448;2017;1935,576681;3
+Co-combustão de biomassa e retrofit para queima de carvão (forno de carvão ou leito fluidizado);1889,764215;2018;1912,670448;3
+Co-combustão de biomassa e retrofit para queima de carvão (forno de carvão ou leito fluidizado);1866,857982;2019;1889,764215;3
+Co-combustão de biomassa e retrofit para queima de carvão (forno de carvão ou leito fluidizado);1843,951749;2020;1866,857982;3
+Co-combustão de biomassa e retrofit para queima de carvão (forno de carvão ou leito fluidizado);1827,917386;2021;1843,951749;3
+Co-combustão de biomassa e retrofit para queima de carvão (forno de carvão ou leito fluidizado);1811,883023;2022;1827,917386;3
+Co-combustão de biomassa e retrofit para queima de carvão (forno de carvão ou leito fluidizado);1795,84866;2023;1811,883023;3
+Co-combustão de biomassa e retrofit para queima de carvão (forno de carvão ou leito fluidizado);1779,814297;2024;1795,84866;2
+Co-combustão de biomassa e retrofit para queima de carvão (forno de carvão ou leito fluidizado);1763,779934;2025;1779,814297;3
+Co-combustão de biomassa e retrofit para queima de carvão (forno de carvão ou leito fluidizado);1747,745571;2026;1763,779934;3
+Co-combustão de biomassa e retrofit para queima de carvão (forno de carvão ou leito fluidizado);1731,711208;2027;1747,745571;3
+Co-combustão de biomassa e retrofit para queima de carvão (forno de carvão ou leito fluidizado);1715,676845;2028;1731,711208;3
+Co-combustão de biomassa e retrofit para queima de carvão (forno de carvão ou leito fluidizado);1699,642482;2029;1715,676845;3
+Co-combustão de biomassa e retrofit para queima de carvão (forno de carvão ou leito fluidizado);1683,608119;2030;1699,642482;3
+Co-combustão de biomassa e retrofit para queima de carvão (forno de carvão ou leito fluidizado);1671,582346;2031;1683,608119;3
+Co-combustão de biomassa e retrofit para queima de carvão (forno de carvão ou leito fluidizado);1659,556574;2032;1671,582346;3
+Co-combustão de biomassa e retrofit para queima de carvão (forno de carvão ou leito fluidizado);1647,530802;2033;1659,556574;3
+Co-combustão de biomassa e retrofit para queima de carvão (forno de carvão ou leito fluidizado);1635,50503;2034;1647,530802;3
+Co-combustão de biomassa e retrofit para queima de carvão (forno de carvão ou leito fluidizado);1623,479257;2035;1635,50503;3
+Co-combustão de biomassa e retrofit para queima de carvão (forno de carvão ou leito fluidizado);1611,453485;2036;1623,479257;3
+Co-combustão de biomassa e retrofit para queima de carvão (forno de carvão ou leito fluidizado);1599,427713;2037;1611,453485;3
+Co-combustão de biomassa e retrofit para queima de carvão (forno de carvão ou leito fluidizado);1587,401941;2038;1599,427713;3
+Co-combustão de biomassa e retrofit para queima de carvão (forno de carvão ou leito fluidizado);1575,376168;2039;1587,401941;3
+Co-combustão de biomassa e retrofit para queima de carvão (forno de carvão ou leito fluidizado);1563,350396;2040;1575,376168;3
+Co-combustão de biomassa e retrofit para queima de carvão (forno de carvão ou leito fluidizado);1551,324624;2041;1563,350396;3
+Co-combustão de biomassa e retrofit para queima de carvão (forno de carvão ou leito fluidizado);1539,298851;2042;1551,324624;3
+Co-combustão de biomassa e retrofit para queima de carvão (forno de carvão ou leito fluidizado);1527,273079;2043;1539,298851;3
+Co-combustão de biomassa e retrofit para queima de carvão (forno de carvão ou leito fluidizado);1515,247307;2044;1527,273079;3
+Co-combustão de biomassa e retrofit para queima de carvão (forno de carvão ou leito fluidizado);1503,221535;2045;1515,247307;3
+Co-combustão de biomassa e retrofit para queima de carvão (forno de carvão ou leito fluidizado);1491,195762;2046;1503,221535;3
+Co-combustão de biomassa e retrofit para queima de carvão (forno de carvão ou leito fluidizado);1479,16999;2047;1491,195762;3
+Co-combustão de biomassa e retrofit para queima de carvão (forno de carvão ou leito fluidizado);1467,144218;2048;1479,16999;3
+Co-combustão de biomassa e retrofit para queima de carvão (forno de carvão ou leito fluidizado);1455,118445;2049;1467,144218;3
+Co-combustão de biomassa e retrofit para queima de carvão (forno de carvão ou leito fluidizado);1443,092673;2050;1455,118445;3
+CCGT avançada CCS após combustão;6012,886138;2013;0;9
+CCGT avançada CCS após combustão;6012,886138;2014;6012,886138;9
+CCGT avançada CCS após combustão;6012,886138;2015;6012,886138;9
+CCGT avançada CCS após combustão;6012,886138;2016;6012,886138;9
+CCGT avançada CCS após combustão;6012,886138;2017;6012,886138;9
+CCGT avançada CCS após combustão;6012,886138;2018;6012,886138;9
+CCGT avançada CCS após combustão;6012,886138;2019;6012,886138;9
+CCGT avançada CCS após combustão;6012,886138;2020;6012,886138;9
+CCGT avançada CCS após combustão;6012,886138;2021;6012,886138;9
+CCGT avançada CCS após combustão;6012,886138;2022;6012,886138;9
+CCGT avançada CCS após combustão;6012,886138;2023;6012,886138;9
+CCGT avançada CCS após combustão;6012,886138;2024;6012,886138;8
+CCGT avançada CCS após combustão;6012,886138;2025;6012,886138;9
+CCGT avançada CCS após combustão;6012,886138;2026;6012,886138;9
+CCGT avançada CCS após combustão;6012,886138;2027;6012,886138;9
+CCGT avançada CCS após combustão;6012,886138;2028;6012,886138;9
+CCGT avançada CCS após combustão;6012,886138;2029;6012,886138;9
+CCGT avançada CCS após combustão;6012,886138;2030;6012,886138;9
+CCGT avançada CCS após combustão;6012,886138;2031;6012,886138;9
+CCGT avançada CCS após combustão;6012,886138;2032;6012,886138;9
+CCGT avançada CCS após combustão;6012,886138;2033;6012,886138;9
+CCGT avançada CCS após combustão;6012,886138;2034;6012,886138;9
+CCGT avançada CCS após combustão;6012,886138;2035;6012,886138;9
+CCGT avançada CCS após combustão;6012,886138;2036;6012,886138;9
+CCGT avançada CCS após combustão;6012,886138;2037;6012,886138;9
+CCGT avançada CCS após combustão;6012,886138;2038;6012,886138;9
+CCGT avançada CCS após combustão;6012,886138;2039;6012,886138;9
+CCGT avançada CCS após combustão;6012,886138;2040;6012,886138;9
+CCGT avançada CCS após combustão;6012,886138;2041;6012,886138;9
+CCGT avançada CCS após combustão;6012,886138;2042;6012,886138;9
+CCGT avançada CCS após combustão;6012,886138;2043;6012,886138;9
+CCGT avançada CCS após combustão;6012,886138;2044;6012,886138;9
+CCGT avançada CCS após combustão;6012,886138;2045;6012,886138;9
+CCGT avançada CCS após combustão;6012,886138;2046;6012,886138;9
+CCGT avançada CCS após combustão;6012,886138;2047;6012,886138;9
+CCGT avançada CCS após combustão;6012,886138;2048;6012,886138;9
+CCGT avançada CCS após combustão;6012,886138;2049;6012,886138;9
+CCGT avançada CCS após combustão;6012,886138;2050;6012,886138;9
+CCS oxyfuel;12025,77228;2013;0;17
+CCS oxyfuel;11853,97553;2014;12025,77228;17
+CCS oxyfuel;11682,17878;2015;11853,97553;17
+CCS oxyfuel;11510,38204;2016;11682,17878;17
+CCS oxyfuel;11338,58529;2017;11510,38204;17
+CCS oxyfuel;11166,78854;2018;11338,58529;17
+CCS oxyfuel;10994,9918;2019;11166,78854;17
+CCS oxyfuel;10823,19505;2020;10994,9918;17
+CCS oxyfuel;10763,06619;2021;10823,19505;17
+CCS oxyfuel;10702,93733;2022;10763,06619;17
+CCS oxyfuel;10642,80847;2023;10702,93733;17
+CCS oxyfuel;10582,6796;2024;10642,80847;16
+CCS oxyfuel;10522,55074;2025;10582,6796;17
+CCS oxyfuel;10462,42188;2026;10522,55074;17
+CCS oxyfuel;10402,29302;2027;10462,42188;17
+CCS oxyfuel;10342,16416;2028;10402,29302;17
+CCS oxyfuel;10282,0353;2029;10342,16416;17
+CCS oxyfuel;10221,90644;2030;10282,0353;17
+CCS oxyfuel;10221,90644;2031;10221,90644;17
+CCS oxyfuel;10221,90644;2032;10221,90644;18
+CCS oxyfuel;10221,90644;2033;10221,90644;18
+CCS oxyfuel;10221,90644;2034;10221,90644;18
+CCS oxyfuel;10221,90644;2035;10221,90644;18
+CCS oxyfuel;10221,90644;2036;10221,90644;19
+CCS oxyfuel;10221,90644;2037;10221,90644;19
+CCS oxyfuel;10221,90644;2038;10221,90644;19
+CCS oxyfuel;10221,90644;2039;10221,90644;20
+CCS oxyfuel;10221,90644;2040;10221,90644;20
+CCS oxyfuel;10221,90644;2041;10221,90644;20
+CCS oxyfuel;10221,90644;2042;10221,90644;20
+CCS oxyfuel;10221,90644;2043;10221,90644;21
+CCS oxyfuel;10221,90644;2044;10221,90644;21
+CCS oxyfuel;10221,90644;2045;10221,90644;21
+CCS oxyfuel;10221,90644;2046;10221,90644;21
+CCS oxyfuel;10221,90644;2047;10221,90644;21
+CCS oxyfuel;10221,90644;2048;10221,90644;21
+CCS oxyfuel;10221,90644;2049;10221,90644;21
+CCS oxyfuel;10221,90644;2050;10221,90644;22
+IGCC CCS pre-combustão;12426,63135;2013;0;18
+IGCC CCS pre-combustão;12303,51035;2014;12426,63135;18
+IGCC CCS pre-combustão;12180,38935;2015;12303,51035;18
+IGCC CCS pre-combustão;12057,26835;2016;12180,38935;18
+IGCC CCS pre-combustão;11934,14735;2017;12057,26835;18
+IGCC CCS pre-combustão;11811,02634;2018;11934,14735;18
+IGCC CCS pre-combustão;11687,90534;2019;11811,02634;18
+IGCC CCS pre-combustão;11564,78434;2020;11687,90534;19
+IGCC CCS pre-combustão;11540,7328;2021;11564,78434;19
+IGCC CCS pre-combustão;11516,68125;2022;11540,7328;19
+IGCC CCS pre-combustão;11492,62971;2023;11516,68125;19
+IGCC CCS pre-combustão;11468,57816;2024;11492,62971;18
+IGCC CCS pre-combustão;11444,52662;2025;11468,57816;19
+IGCC CCS pre-combustão;11420,47507;2026;11444,52662;19
+IGCC CCS pre-combustão;11396,42353;2027;11420,47507;19
+IGCC CCS pre-combustão;11372,37198;2028;11396,42353;19
+IGCC CCS pre-combustão;11348,32044;2029;11372,37198;20
+IGCC CCS pre-combustão;11324,26889;2030;11348,32044;20
+IGCC CCS pre-combustão;11324,26889;2031;11324,26889;20
+IGCC CCS pre-combustão;11324,26889;2032;11324,26889;20
+IGCC CCS pre-combustão;11324,26889;2033;11324,26889;21
+IGCC CCS pre-combustão;11324,26889;2034;11324,26889;21
+IGCC CCS pre-combustão;11324,26889;2035;11324,26889;21
+IGCC CCS pre-combustão;11324,26889;2036;11324,26889;21
+IGCC CCS pre-combustão;11324,26889;2037;11324,26889;22
+IGCC CCS pre-combustão;11324,26889;2038;11324,26889;22
+IGCC CCS pre-combustão;11324,26889;2039;11324,26889;22
+IGCC CCS pre-combustão;11324,26889;2040;11324,26889;23
+IGCC CCS pre-combustão;11324,26889;2041;11324,26889;24
+IGCC CCS pre-combustão;11324,26889;2042;11324,26889;24
+IGCC CCS pre-combustão;11324,26889;2043;11324,26889;24
+IGCC CCS pre-combustão;11324,26889;2044;11324,26889;24
+IGCC CCS pre-combustão;11324,26889;2045;11324,26889;24
+IGCC CCS pre-combustão;11324,26889;2046;11324,26889;24
+IGCC CCS pre-combustão;11324,26889;2047;11324,26889;24
+IGCC CCS pre-combustão;11324,26889;2048;11324,26889;24
+IGCC CCS pre-combustão;11324,26889;2049;11324,26889;24
+IGCC CCS pre-combustão;11324,26889;2050;11324,26889;24
