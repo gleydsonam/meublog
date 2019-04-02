@@ -1,0 +1,1065 @@
+name,value,year,lastValue,rank
+Eólica Terrestre,5612.03,2013,0,7
+Eólica Terrestre,5583.39,2014,5612.03,8
+Eólica Terrestre,5554.76,2015,5583.39,8
+Eólica Terrestre,5526.13,2016,5554.76,8
+Eólica Terrestre,5497.50,2017,5526.13,8
+Eólica Terrestre,5468.86,2018,5497.50,8
+Eólica Terrestre,5440.23,2019,5468.86,8
+Eólica Terrestre,5411.60,2020,5440.23,8
+Eólica Terrestre,5391.55,2021,5411.60,8
+Eólica Terrestre,5371.51,2022,5391.55,8
+Eólica Terrestre,5351.47,2023,5371.51,8
+Eólica Terrestre,5331.43,2024,5351.47,7
+Eólica Terrestre,5311.38,2025,5331.43,8
+Eólica Terrestre,5291.34,2026,5311.38,8
+Eólica Terrestre,5271.30,2027,5291.34,8
+Eólica Terrestre,5251.25,2028,5271.30,8
+Eólica Terrestre,5231.21,2029,5251.25,8
+Eólica Terrestre,5211.17,2030,5231.21,8
+Eólica Terrestre,5171.08,2031,5211.17,8
+Eólica Terrestre,5131.00,2032,5171.08,8
+Eólica Terrestre,5090.91,2033,5131.00,8
+Eólica Terrestre,5050.82,2034,5090.91,8
+Eólica Terrestre,5010.74,2035,5050.82,8
+Eólica Terrestre,4970.65,2036,5010.74,8
+Eólica Terrestre,4930.57,2037,4970.65,8
+Eólica Terrestre,4890.48,2038,4930.57,8
+Eólica Terrestre,4850.39,2039,4890.48,8
+Eólica Terrestre,4810.31,2040,4850.39,8
+Eólica Terrestre,4770.22,2041,4810.31,8
+Eólica Terrestre,4730.14,2042,4770.22,8
+Eólica Terrestre,4690.05,2043,4730.14,8
+Eólica Terrestre,4649.97,2044,4690.05,8
+Eólica Terrestre,4609.88,2045,4649.97,8
+Eólica Terrestre,4569.79,2046,4609.88,8
+Eólica Terrestre,4529.71,2047,4569.79,8
+Eólica Terrestre,4489.62,2048,4529.71,8
+Eólica Terrestre,4449.54,2049,4489.62,8
+Eólica Terrestre,4409.45,2050,4449.54,8
+Eólica Marítima,13909.81,2013,0,20
+Eólica Marítima,13571.94,2014,13909.81,20
+Eólica Marítima,13234.08,2015,13571.94,20
+Eólica Marítima,12896.21,2016,13234.08,20
+Eólica Marítima,12558.34,2017,12896.21,20
+Eólica Marítima,12220.48,2018,12558.34,20
+Eólica Marítima,11882.61,2019,12220.48,19
+Eólica Marítima,11544.74,2020,11882.61,18
+Eólica Marítima,11424.48,2021,11544.74,18
+Eólica Marítima,11304.23,2022,11424.48,18
+Eólica Marítima,11183.97,2023,11304.23,18
+Eólica Marítima,11063.71,2024,11183.97,17
+Eólica Marítima,10943.45,2025,11063.71,18
+Eólica Marítima,10823.20,2026,10943.45,18
+Eólica Marítima,10702.94,2027,10823.20,18
+Eólica Marítima,10582.68,2028,10702.94,18
+Eólica Marítima,10462.42,2029,10582.68,18
+Eólica Marítima,10342.16,2030,10462.42,18
+Eólica Marítima,10261.99,2031,10342.16,18
+Eólica Marítima,10181.82,2032,10261.99,17
+Eólica Marítima,10101.65,2033,10181.82,17
+Eólica Marítima,10021.48,2034,10101.65,17
+Eólica Marítima,9941.31,2035,10021.48,17
+Eólica Marítima,9861.13,2036,9941.31,17
+Eólica Marítima,9780.96,2037,9861.13,18
+Eólica Marítima,9700.79,2038,9780.96,18
+Eólica Marítima,9620.62,2039,9700.79,18
+Eólica Marítima,9540.45,2040,9620.62,18
+Eólica Marítima,9500.36,2041,9540.45,18
+Eólica Marítima,9460.27,2042,9500.36,18
+Eólica Marítima,9420.19,2043,9460.27,18
+Eólica Marítima,9380.10,2044,9420.19,18
+Eólica Marítima,9340.02,2045,9380.10,18
+Eólica Marítima,9299.93,2046,9340.02,18
+Eólica Marítima,9259.84,2047,9299.93,18
+Eólica Marítima,9219.76,2048,9259.84,18
+Eólica Marítima,9179.67,2049,9219.76,18
+Eólica Marítima,9139.59,2050,9179.67,18
+Sistema Fotovoltaico Comercial 0.1-2 MW,4523.45,2013,0,6
+Sistema Fotovoltaico Comercial 0.1-2 MW,4390.41,2014,4523.45,6
+Sistema Fotovoltaico Comercial 0.1-2 MW,4257.37,2015,4390.41,6
+Sistema Fotovoltaico Comercial 0.1-2 MW,4124.32,2016,4257.37,6
+Sistema Fotovoltaico Comercial 0.1-2 MW,3991.28,2017,4124.32,6
+Sistema Fotovoltaico Comercial 0.1-2 MW,3858.24,2018,3991.28,6
+Sistema Fotovoltaico Comercial 0.1-2 MW,3725.20,2019,3858.24,6
+Sistema Fotovoltaico Comercial 0.1-2 MW,3592.15,2020,3725.20,6
+Sistema Fotovoltaico Comercial 0.1-2 MW,3556.23,2021,3592.15,6
+Sistema Fotovoltaico Comercial 0.1-2 MW,3520.31,2022,3556.23,6
+Sistema Fotovoltaico Comercial 0.1-2 MW,3484.39,2023,3520.31,6
+Sistema Fotovoltaico Comercial 0.1-2 MW,3448.47,2024,3484.39,5
+Sistema Fotovoltaico Comercial 0.1-2 MW,3412.55,2025,3448.47,6
+Sistema Fotovoltaico Comercial 0.1-2 MW,3376.62,2026,3412.55,5
+Sistema Fotovoltaico Comercial 0.1-2 MW,3340.70,2027,3376.62,5
+Sistema Fotovoltaico Comercial 0.1-2 MW,3304.78,2028,3340.70,5
+Sistema Fotovoltaico Comercial 0.1-2 MW,3268.86,2029,3304.78,5
+Sistema Fotovoltaico Comercial 0.1-2 MW,3232.94,2030,3268.86,5
+Sistema Fotovoltaico Comercial 0.1-2 MW,3212.98,2031,3232.94,5
+Sistema Fotovoltaico Comercial 0.1-2 MW,3193.02,2032,3212.98,5
+Sistema Fotovoltaico Comercial 0.1-2 MW,3173.07,2033,3193.02,5
+Sistema Fotovoltaico Comercial 0.1-2 MW,3153.11,2034,3173.07,5
+Sistema Fotovoltaico Comercial 0.1-2 MW,3133.16,2035,3153.11,5
+Sistema Fotovoltaico Comercial 0.1-2 MW,3113.20,2036,3133.16,5
+Sistema Fotovoltaico Comercial 0.1-2 MW,3093.24,2037,3113.20,5
+Sistema Fotovoltaico Comercial 0.1-2 MW,3073.29,2038,3093.24,5
+Sistema Fotovoltaico Comercial 0.1-2 MW,3053.33,2039,3073.29,5
+Sistema Fotovoltaico Comercial 0.1-2 MW,3033.37,2040,3053.33,5
+Sistema Fotovoltaico Comercial 0.1-2 MW,3017.41,2041,3033.37,5
+Sistema Fotovoltaico Comercial 0.1-2 MW,3001.44,2042,3017.41,5
+Sistema Fotovoltaico Comercial 0.1-2 MW,2985.48,2043,3001.44,5
+Sistema Fotovoltaico Comercial 0.1-2 MW,2969.51,2044,2985.48,5
+Sistema Fotovoltaico Comercial 0.1-2 MW,2953.55,2045,2969.51,5
+Sistema Fotovoltaico Comercial 0.1-2 MW,2937.58,2046,2953.55,5
+Sistema Fotovoltaico Comercial 0.1-2 MW,2921.62,2047,2937.58,5
+Sistema Fotovoltaico Comercial 0.1-2 MW,2905.65,2048,2921.62,5
+Sistema Fotovoltaico Comercial 0.1-2 MW,2889.69,2049,2905.65,5
+Sistema Fotovoltaico Comercial 0.1-2 MW,2873.72,2050,2889.69,5
+Sistema Fotovoltaico Comercial >2 MW sem rastreador solar,4031.19,2013,0,5
+Sistema Fotovoltaico Comercial >2 MW sem rastreador solar,3911.46,2014,4031.19,5
+Sistema Fotovoltaico Comercial >2 MW sem rastreador solar,3791.72,2015,3911.46,5
+Sistema Fotovoltaico Comercial >2 MW sem rastreador solar,3671.98,2016,3791.72,5
+Sistema Fotovoltaico Comercial >2 MW sem rastreador solar,3552.24,2017,3671.98,5
+Sistema Fotovoltaico Comercial >2 MW sem rastreador solar,3432.50,2018,3552.24,5
+Sistema Fotovoltaico Comercial >2 MW sem rastreador solar,3312.76,2019,3432.50,4
+Sistema Fotovoltaico Comercial >2 MW sem rastreador solar,3193.02,2020,3312.76,4
+Sistema Fotovoltaico Comercial >2 MW sem rastreador solar,3129.16,2021,3193.02,4
+Sistema Fotovoltaico Comercial >2 MW sem rastreador solar,3065.30,2022,3129.16,4
+Sistema Fotovoltaico Comercial >2 MW sem rastreador solar,3001.44,2023,3065.30,4
+Sistema Fotovoltaico Comercial >2 MW sem rastreador solar,2937.58,2024,3001.44,3
+Sistema Fotovoltaico Comercial >2 MW sem rastreador solar,2873.72,2025,2937.58,4
+Sistema Fotovoltaico Comercial >2 MW sem rastreador solar,2809.86,2026,2873.72,4
+Sistema Fotovoltaico Comercial >2 MW sem rastreador solar,2746.00,2027,2809.86,4
+Sistema Fotovoltaico Comercial >2 MW sem rastreador solar,2682.14,2028,2746.00,4
+Sistema Fotovoltaico Comercial >2 MW sem rastreador solar,2618.28,2029,2682.14,4
+Sistema Fotovoltaico Comercial >2 MW sem rastreador solar,2554.42,2030,2618.28,4
+Sistema Fotovoltaico Comercial >2 MW sem rastreador solar,2530.47,2031,2554.42,4
+Sistema Fotovoltaico Comercial >2 MW sem rastreador solar,2506.52,2032,2530.47,4
+Sistema Fotovoltaico Comercial >2 MW sem rastreador solar,2482.58,2033,2506.52,4
+Sistema Fotovoltaico Comercial >2 MW sem rastreador solar,2458.63,2034,2482.58,4
+Sistema Fotovoltaico Comercial >2 MW sem rastreador solar,2434.68,2035,2458.63,4
+Sistema Fotovoltaico Comercial >2 MW sem rastreador solar,2410.73,2036,2434.68,4
+Sistema Fotovoltaico Comercial >2 MW sem rastreador solar,2386.79,2037,2410.73,4
+Sistema Fotovoltaico Comercial >2 MW sem rastreador solar,2362.84,2038,2386.79,4
+Sistema Fotovoltaico Comercial >2 MW sem rastreador solar,2338.89,2039,2362.84,4
+Sistema Fotovoltaico Comercial >2 MW sem rastreador solar,2314.94,2040,2338.89,4
+Sistema Fotovoltaico Comercial >2 MW sem rastreador solar,2291.00,2041,2314.94,4
+Sistema Fotovoltaico Comercial >2 MW sem rastreador solar,2267.05,2042,2291.00,4
+Sistema Fotovoltaico Comercial >2 MW sem rastreador solar,2243.10,2043,2267.05,4
+Sistema Fotovoltaico Comercial >2 MW sem rastreador solar,2219.15,2044,2243.10,4
+Sistema Fotovoltaico Comercial >2 MW sem rastreador solar,2195.20,2045,2219.15,4
+Sistema Fotovoltaico Comercial >2 MW sem rastreador solar,2171.26,2046,2195.20,4
+Sistema Fotovoltaico Comercial >2 MW sem rastreador solar,2147.31,2047,2171.26,4
+Sistema Fotovoltaico Comercial >2 MW sem rastreador solar,2123.36,2048,2147.31,4
+Sistema Fotovoltaico Comercial >2 MW sem rastreador solar,2099.41,2049,2123.36,4
+Sistema Fotovoltaico Comercial >2 MW sem rastreador solar,2075.47,2050,2099.41,4
+Sistema Fotovoltaico Residencial <100 kW,6000.23,2013,0,8
+Sistema Fotovoltaico Residencial <100 kW,5228.58,2014,6000.23,7
+Sistema Fotovoltaico Residencial <100 kW,4456.93,2015,5228.58,7
+Sistema Fotovoltaico Residencial <100 kW,4323.89,2016,4456.93,7
+Sistema Fotovoltaico Residencial <100 kW,4190.85,2017,4323.89,7
+Sistema Fotovoltaico Residencial <100 kW,4057.80,2018,4190.85,7
+Sistema Fotovoltaico Residencial <100 kW,3924.76,2019,4057.80,7
+Sistema Fotovoltaico Residencial <100 kW,3791.72,2020,3924.76,7
+Sistema Fotovoltaico Residencial <100 kW,4346.51,2021,3791.72,7
+Sistema Fotovoltaico Residencial <100 kW,4302.60,2022,4346.51,7
+Sistema Fotovoltaico Residencial <100 kW,4258.70,2023,4302.60,7
+Sistema Fotovoltaico Residencial <100 kW,4214.79,2024,4258.70,6
+Sistema Fotovoltaico Residencial <100 kW,4170.89,2025,4214.79,7
+Sistema Fotovoltaico Residencial <100 kW,4126.98,2026,4170.89,7
+Sistema Fotovoltaico Residencial <100 kW,4083.08,2027,4126.98,7
+Sistema Fotovoltaico Residencial <100 kW,4039.18,2028,4083.08,7
+Sistema Fotovoltaico Residencial <100 kW,3995.27,2029,4039.18,7
+Sistema Fotovoltaico Residencial <100 kW,3951.37,2030,3995.27,7
+Sistema Fotovoltaico Residencial <100 kW,3927.42,2031,3951.37,7
+Sistema Fotovoltaico Residencial <100 kW,3903.47,2032,3927.42,7
+Sistema Fotovoltaico Residencial <100 kW,3879.53,2033,3903.47,7
+Sistema Fotovoltaico Residencial <100 kW,3855.58,2034,3879.53,7
+Sistema Fotovoltaico Residencial <100 kW,3831.63,2035,3855.58,7
+Sistema Fotovoltaico Residencial <100 kW,3807.68,2036,3831.63,7
+Sistema Fotovoltaico Residencial <100 kW,3783.73,2037,3807.68,7
+Sistema Fotovoltaico Residencial <100 kW,3759.79,2038,3783.73,7
+Sistema Fotovoltaico Residencial <100 kW,3735.84,2039,3759.79,7
+Sistema Fotovoltaico Residencial <100 kW,3711.89,2040,3735.84,7
+Sistema Fotovoltaico Residencial <100 kW,3691.94,2041,3711.89,7
+Sistema Fotovoltaico Residencial <100 kW,3671.98,2042,3691.94,7
+Sistema Fotovoltaico Residencial <100 kW,3652.02,2043,3671.98,7
+Sistema Fotovoltaico Residencial <100 kW,3632.07,2044,3652.02,7
+Sistema Fotovoltaico Residencial <100 kW,3612.11,2045,3632.07,7
+Sistema Fotovoltaico Residencial <100 kW,3592.15,2046,3612.11,7
+Sistema Fotovoltaico Residencial <100 kW,3572.20,2047,3592.15,7
+Sistema Fotovoltaico Residencial <100 kW,3552.24,2048,3572.20,7
+Sistema Fotovoltaico Residencial <100 kW,3532.28,2049,3552.24,7
+Sistema Fotovoltaico Residencial <100 kW,3512.33,2050,3532.28,7
+Solar Térmico,22448.11,2013,0,25
+Solar Térmico,21818.19,2014,22448.11,25
+Solar Térmico,21188.27,2015,21818.19,25
+Solar Térmico,20558.34,2016,21188.27,25
+Solar Térmico,19928.42,2017,20558.34,25
+Solar Térmico,19298.50,2018,19928.42,25
+Solar Térmico,18668.58,2019,19298.50,25
+Solar Térmico,18038.66,2020,18668.58,26
+Solar Térmico,17758.06,2021,18038.66,25
+Solar Térmico,17477.46,2022,17758.06,25
+Solar Térmico,17196.85,2023,17477.46,25
+Solar Térmico,16916.25,2024,17196.85,24
+Solar Térmico,16635.65,2025,16916.25,25
+Solar Térmico,16355.05,2026,16635.65,25
+Solar Térmico,16074.45,2027,16355.05,25
+Solar Térmico,15793.85,2028,16074.45,25
+Solar Térmico,15513.25,2029,15793.85,25
+Solar Térmico,15232.64,2030,15513.25,25
+Solar Térmico,15112.39,2031,15232.64,25
+Solar Térmico,14992.13,2032,15112.39,25
+Solar Térmico,14871.87,2033,14992.13,25
+Solar Térmico,14751.61,2034,14871.87,25
+Solar Térmico,14631.36,2035,14751.61,26
+Solar Térmico,14511.10,2036,14631.36,26
+Solar Térmico,14390.84,2037,14511.10,26
+Solar Térmico,14270.58,2038,14390.84,26
+Solar Térmico,14150.33,2039,14270.58,26
+Solar Térmico,14030.07,2040,14150.33,26
+Solar Térmico,13989.98,2041,14030.07,26
+Solar Térmico,13949.90,2042,13989.98,26
+Solar Térmico,13909.81,2043,13949.90,26
+Solar Térmico,13869.72,2044,13909.81,26
+Solar Térmico,13829.64,2045,13869.72,26
+Solar Térmico,13789.55,2046,13829.64,26
+Solar Térmico,13749.47,2047,13789.55,26
+Solar Térmico,13709.38,2048,13749.47,26
+Solar Térmico,13669.29,2049,13709.38,26
+Solar Térmico,13629.21,2050,13669.29,26
+Hidrelétrica com reservatório >100 MW,8818.90,2013,0,13
+Hidrelétrica com reservatório >100 MW,8818.90,2014,8818.90,13
+Hidrelétrica com reservatório >100 MW,8818.90,2015,8818.90,13
+Hidrelétrica com reservatório >100 MW,8818.90,2016,8818.90,13
+Hidrelétrica com reservatório >100 MW,8818.90,2017,8818.90,13
+Hidrelétrica com reservatório >100 MW,8818.90,2018,8818.90,13
+Hidrelétrica com reservatório >100 MW,8818.90,2019,8818.90,13
+Hidrelétrica com reservatório >100 MW,8818.90,2020,8818.90,13
+Hidrelétrica com reservatório >100 MW,8818.90,2021,8818.90,13
+Hidrelétrica com reservatório >100 MW,8818.90,2022,8818.90,13
+Hidrelétrica com reservatório >100 MW,8818.90,2023,8818.90,13
+Hidrelétrica com reservatório >100 MW,8818.90,2024,8818.90,12
+Hidrelétrica com reservatório >100 MW,8818.90,2025,8818.90,13
+Hidrelétrica com reservatório >100 MW,8818.90,2026,8818.90,13
+Hidrelétrica com reservatório >100 MW,8818.90,2027,8818.90,13
+Hidrelétrica com reservatório >100 MW,8818.90,2028,8818.90,13
+Hidrelétrica com reservatório >100 MW,8818.90,2029,8818.90,13
+Hidrelétrica com reservatório >100 MW,8818.90,2030,8818.90,13
+Hidrelétrica com reservatório >100 MW,8818.90,2031,8818.90,13
+Hidrelétrica com reservatório >100 MW,8818.90,2032,8818.90,13
+Hidrelétrica com reservatório >100 MW,8818.90,2033,8818.90,13
+Hidrelétrica com reservatório >100 MW,8818.90,2034,8818.90,13
+Hidrelétrica com reservatório >100 MW,8818.90,2035,8818.90,14
+Hidrelétrica com reservatório >100 MW,8818.90,2036,8818.90,14
+Hidrelétrica com reservatório >100 MW,8818.90,2037,8818.90,14
+Hidrelétrica com reservatório >100 MW,8818.90,2038,8818.90,15
+Hidrelétrica com reservatório >100 MW,8818.90,2039,8818.90,16
+Hidrelétrica com reservatório >100 MW,8818.90,2040,8818.90,16
+Hidrelétrica com reservatório >100 MW,8818.90,2041,8818.90,16
+Hidrelétrica com reservatório >100 MW,8818.90,2042,8818.90,16
+Hidrelétrica com reservatório >100 MW,8818.90,2043,8818.90,16
+Hidrelétrica com reservatório >100 MW,8818.90,2044,8818.90,16
+Hidrelétrica com reservatório >100 MW,8818.90,2045,8818.90,16
+Hidrelétrica com reservatório >100 MW,8818.90,2046,8818.90,16
+Hidrelétrica com reservatório >100 MW,8818.90,2047,8818.90,16
+Hidrelétrica com reservatório >100 MW,8818.90,2048,8818.90,16
+Hidrelétrica com reservatório >100 MW,8818.90,2049,8818.90,16
+Hidrelétrica com reservatório >100 MW,8818.90,2050,8818.90,16
+Hidrelétrica com reservatório <10 MW,17637.80,2013,0,23
+Hidrelétrica com reservatório <10 MW,17683.61,2014,17637.80,23
+Hidrelétrica com reservatório <10 MW,17729.42,2015,17683.61,23
+Hidrelétrica com reservatório <10 MW,17775.24,2016,17729.42,24
+Hidrelétrica com reservatório <10 MW,17821.05,2017,17775.24,24
+Hidrelétrica com reservatório <10 MW,17866.86,2018,17821.05,24
+Hidrelétrica com reservatório <10 MW,17912.67,2019,17866.86,24
+Hidrelétrica com reservatório <10 MW,17958.49,2020,17912.67,25
+Hidrelétrica com reservatório <10 MW,17966.50,2021,17958.49,26
+Hidrelétrica com reservatório <10 MW,17974.52,2022,17966.50,26
+Hidrelétrica com reservatório <10 MW,17982.54,2023,17974.52,26
+Hidrelétrica com reservatório <10 MW,17990.56,2024,17982.54,25
+Hidrelétrica com reservatório <10 MW,17998.57,2025,17990.56,26
+Hidrelétrica com reservatório <10 MW,18006.59,2026,17998.57,26
+Hidrelétrica com reservatório <10 MW,18014.61,2027,18006.59,26
+Hidrelétrica com reservatório <10 MW,18022.62,2028,18014.61,26
+Hidrelétrica com reservatório <10 MW,18030.64,2029,18022.62,26
+Hidrelétrica com reservatório <10 MW,18038.66,2030,18030.64,27
+Hidrelétrica com reservatório <10 MW,18038.66,2031,18038.66,27
+Hidrelétrica com reservatório <10 MW,18038.66,2032,18038.66,27
+Hidrelétrica com reservatório <10 MW,18038.66,2033,18038.66,27
+Hidrelétrica com reservatório <10 MW,18038.66,2034,18038.66,27
+Hidrelétrica com reservatório <10 MW,18038.66,2035,18038.66,27
+Hidrelétrica com reservatório <10 MW,18038.66,2036,18038.66,27
+Hidrelétrica com reservatório <10 MW,18038.66,2037,18038.66,27
+Hidrelétrica com reservatório <10 MW,18038.66,2038,18038.66,27
+Hidrelétrica com reservatório <10 MW,18038.66,2039,18038.66,27
+Hidrelétrica com reservatório <10 MW,18038.66,2040,18038.66,27
+Hidrelétrica com reservatório <10 MW,18038.66,2041,18038.66,27
+Hidrelétrica com reservatório <10 MW,18038.66,2042,18038.66,27
+Hidrelétrica com reservatório <10 MW,18038.66,2043,18038.66,27
+Hidrelétrica com reservatório <10 MW,18038.66,2044,18038.66,27
+Hidrelétrica com reservatório <10 MW,18038.66,2045,18038.66,27
+Hidrelétrica com reservatório <10 MW,18038.66,2046,18038.66,27
+Hidrelétrica com reservatório <10 MW,18038.66,2047,18038.66,27
+Hidrelétrica com reservatório <10 MW,18038.66,2048,18038.66,27
+Hidrelétrica com reservatório <10 MW,18038.66,2049,18038.66,27
+Hidrelétrica com reservatório <10 MW,18038.66,2050,18038.66,27
+Oceânica Por Ondas,36398.00,2013,0,27
+Oceânica Por Ondas,34513.97,2014,36398.00,27
+Oceânica Por Ondas,32629.93,2015,34513.97,27
+Oceânica Por Ondas,30745.89,2016,32629.93,27
+Oceânica Por Ondas,28861.85,2017,30745.89,28
+Oceânica Por Ondas,26977.82,2018,28861.85,28
+Oceânica Por Ondas,25093.78,2019,26977.82,28
+Oceânica Por Ondas,23209.74,2020,25093.78,28
+Oceânica Por Ondas,22684.62,2021,23209.74,28
+Oceânica Por Ondas,22159.49,2022,22684.62,27
+Oceânica Por Ondas,21634.36,2023,22159.49,27
+Oceânica Por Ondas,21109.24,2024,21634.36,26
+Oceânica Por Ondas,20584.11,2025,21109.24,27
+Oceânica Por Ondas,20058.99,2026,20584.11,27
+Oceânica Por Ondas,19533.86,2027,20058.99,27
+Oceânica Por Ondas,19008.74,2028,19533.86,27
+Oceânica Por Ondas,18483.61,2029,19008.74,27
+Oceânica Por Ondas,17958.49,2030,18483.61,26
+Oceânica Por Ondas,17224.91,2031,17958.49,26
+Oceânica Por Ondas,16491.34,2032,17224.91,26
+Oceânica Por Ondas,15757.77,2033,16491.34,26
+Oceânica Por Ondas,15024.20,2034,15757.77,26
+Oceânica Por Ondas,14290.63,2035,15024.20,25
+Oceânica Por Ondas,13557.05,2036,14290.63,25
+Oceânica Por Ondas,12823.48,2037,13557.05,25
+Oceânica Por Ondas,12089.91,2038,12823.48,25
+Oceânica Por Ondas,11356.34,2039,12089.91,23
+Oceânica Por Ondas,10622.77,2040,11356.34,21
+Oceânica Por Ondas,10482.46,2041,10622.77,21
+Oceânica Por Ondas,10342.16,2042,10482.46,21
+Oceânica Por Ondas,10201.86,2043,10342.16,20
+Oceânica Por Ondas,10061.56,2044,10201.86,20
+Oceânica Por Ondas,9921.26,2045,10061.56,20
+Oceânica Por Ondas,9780.96,2046,9921.26,20
+Oceânica Por Ondas,9640.66,2047,9780.96,20
+Oceânica Por Ondas,9500.36,2048,9640.66,20
+Oceânica Por Ondas,9360.06,2049,9500.36,20
+Oceânica Por Ondas,9219.76,2050,9360.06,19
+Oceânica Por Marés,42891.92,2013,0,28
+Oceânica Por Marés,39284.19,2014,42891.92,28
+Oceânica Por Marés,35676.46,2015,39284.19,28
+Oceânica Por Marés,32068.73,2016,35676.46,28
+Oceânica Por Marés,28460.99,2017,32068.73,27
+Oceânica Por Marés,24853.26,2018,28460.99,27
+Oceânica Por Marés,21245.53,2019,24853.26,26
+Oceânica Por Marés,17637.80,2020,21245.53,24
+Oceânica Por Marés,17116.68,2021,17637.80,24
+Oceânica Por Marés,16595.57,2022,17116.68,24
+Oceânica Por Marés,16074.45,2023,16595.57,24
+Oceânica Por Marés,15553.33,2024,16074.45,23
+Oceânica Por Marés,15032.22,2025,15553.33,24
+Oceânica Por Marés,14511.10,2026,15032.22,24
+Oceânica Por Marés,13989.98,2027,14511.10,24
+Oceânica Por Marés,13468.86,2028,13989.98,24
+Oceânica Por Marés,12947.75,2029,13468.86,24
+Oceânica Por Marés,12426.63,2030,12947.75,23
+Oceânica Por Marés,12025.77,2031,12426.63,22
+Oceânica Por Marés,11624.91,2032,12025.77,21
+Oceânica Por Marés,11224.05,2033,11624.91,20
+Oceânica Por Marés,10823.20,2034,11224.05,20
+Oceânica Por Marés,10422.34,2035,10823.20,19
+Oceânica Por Marés,10021.48,2036,10422.34,18
+Oceânica Por Marés,9620.62,2037,10021.48,17
+Oceânica Por Marés,9219.76,2038,9620.62,16
+Oceânica Por Marés,8818.90,2039,9219.76,15
+Oceânica Por Marés,8418.04,2040,8818.90,14
+Oceânica Por Marés,8337.87,2041,8418.04,14
+Oceânica Por Marés,8257.70,2042,8337.87,14
+Oceânica Por Marés,8177.53,2043,8257.70,14
+Oceânica Por Marés,8097.35,2044,8177.53,14
+Oceânica Por Marés,8017.18,2045,8097.35,13
+Oceânica Por Marés,7937.01,2046,8017.18,13
+Oceânica Por Marés,7856.84,2047,7937.01,13
+Oceânica Por Marés,7776.67,2048,7856.84,13
+Oceânica Por Marés,7696.49,2049,7776.67,13
+Oceânica Por Marés,7616.32,2050,7696.49,12
+Turbina a Gás de Ciclo Aberto Convencional (OCGT),3086.61,2013,0,2
+Turbina a Gás de Ciclo Aberto Convencional (OCGT), -   ,2014,3086.61,1
+Turbina a Gás de Ciclo Aberto Convencional (OCGT), -   ,2015, -   ,1
+Turbina a Gás de Ciclo Aberto Convencional (OCGT), -   ,2016, -   ,1
+Turbina a Gás de Ciclo Aberto Convencional (OCGT), -   ,2017, -   ,1
+Turbina a Gás de Ciclo Aberto Convencional (OCGT), -   ,2018, -   ,1
+Turbina a Gás de Ciclo Aberto Convencional (OCGT), -   ,2019, -   ,1
+Turbina a Gás de Ciclo Aberto Convencional (OCGT), -   ,2020, -   ,1
+Turbina a Gás de Ciclo Aberto Convencional (OCGT), -   ,2021, -   ,1
+Turbina a Gás de Ciclo Aberto Convencional (OCGT), -   ,2022, -   ,1
+Turbina a Gás de Ciclo Aberto Convencional (OCGT), -   ,2023, -   ,1
+Turbina a Gás de Ciclo Aberto Convencional (OCGT), -   ,2024, -   ,1
+Turbina a Gás de Ciclo Aberto Convencional (OCGT), -   ,2025, -   ,1
+Turbina a Gás de Ciclo Aberto Convencional (OCGT), -   ,2026, -   ,1
+Turbina a Gás de Ciclo Aberto Convencional (OCGT), -   ,2027, -   ,1
+Turbina a Gás de Ciclo Aberto Convencional (OCGT), -   ,2028, -   ,1
+Turbina a Gás de Ciclo Aberto Convencional (OCGT), -   ,2029, -   ,1
+Turbina a Gás de Ciclo Aberto Convencional (OCGT), -   ,2030, -   ,1
+Turbina a Gás de Ciclo Aberto Convencional (OCGT), -   ,2031, -   ,1
+Turbina a Gás de Ciclo Aberto Convencional (OCGT), -   ,2032, -   ,1
+Turbina a Gás de Ciclo Aberto Convencional (OCGT), -   ,2033, -   ,1
+Turbina a Gás de Ciclo Aberto Convencional (OCGT), -   ,2034, -   ,1
+Turbina a Gás de Ciclo Aberto Convencional (OCGT), -   ,2035, -   ,1
+Turbina a Gás de Ciclo Aberto Convencional (OCGT), -   ,2036, -   ,1
+Turbina a Gás de Ciclo Aberto Convencional (OCGT), -   ,2037, -   ,1
+Turbina a Gás de Ciclo Aberto Convencional (OCGT), -   ,2038, -   ,1
+Turbina a Gás de Ciclo Aberto Convencional (OCGT), -   ,2039, -   ,1
+Turbina a Gás de Ciclo Aberto Convencional (OCGT), -   ,2040, -   ,1
+Turbina a Gás de Ciclo Aberto Convencional (OCGT), -   ,2041, -   ,1
+Turbina a Gás de Ciclo Aberto Convencional (OCGT), -   ,2042, -   ,1
+Turbina a Gás de Ciclo Aberto Convencional (OCGT), -   ,2043, -   ,1
+Turbina a Gás de Ciclo Aberto Convencional (OCGT), -   ,2044, -   ,1
+Turbina a Gás de Ciclo Aberto Convencional (OCGT), -   ,2045, -   ,1
+Turbina a Gás de Ciclo Aberto Convencional (OCGT), -   ,2046, -   ,1
+Turbina a Gás de Ciclo Aberto Convencional (OCGT), -   ,2047, -   ,1
+Turbina a Gás de Ciclo Aberto Convencional (OCGT), -   ,2048, -   ,1
+Turbina a Gás de Ciclo Aberto Convencional (OCGT), -   ,2049, -   ,1
+Turbina a Gás de Ciclo Aberto Convencional (OCGT), -   ,2050, -   ,1
+Turbina a Gás de Avançada (CCGT),3407.30,2013,0,3
+Turbina a Gás de Avançada (CCGT),3407.30,2014,3407.30,4
+Turbina a Gás de Avançada (CCGT),3407.30,2015,3407.30,4
+Turbina a Gás de Avançada (CCGT),3407.30,2016,3407.30,4
+Turbina a Gás de Avançada (CCGT),3407.30,2017,3407.30,4
+Turbina a Gás de Avançada (CCGT),3407.30,2018,3407.30,4
+Turbina a Gás de Avançada (CCGT),3407.30,2019,3407.30,5
+Turbina a Gás de Avançada (CCGT),3407.30,2020,3407.30,5
+Turbina a Gás de Avançada (CCGT),3407.30,2021,3407.30,5
+Turbina a Gás de Avançada (CCGT),3407.30,2022,3407.30,5
+Turbina a Gás de Avançada (CCGT),3407.30,2023,3407.30,5
+Turbina a Gás de Avançada (CCGT),3407.30,2024,3407.30,4
+Turbina a Gás de Avançada (CCGT),3407.30,2025,3407.30,5
+Turbina a Gás de Avançada (CCGT),3407.30,2026,3407.30,6
+Turbina a Gás de Avançada (CCGT),3407.30,2027,3407.30,6
+Turbina a Gás de Avançada (CCGT),3407.30,2028,3407.30,6
+Turbina a Gás de Avançada (CCGT),3407.30,2029,3407.30,6
+Turbina a Gás de Avançada (CCGT),3407.30,2030,3407.30,6
+Turbina a Gás de Avançada (CCGT),3407.30,2031,3407.30,6
+Turbina a Gás de Avançada (CCGT),3407.30,2032,3407.30,6
+Turbina a Gás de Avançada (CCGT),3407.30,2033,3407.30,6
+Turbina a Gás de Avançada (CCGT),3407.30,2034,3407.30,6
+Turbina a Gás de Avançada (CCGT),3407.30,2035,3407.30,6
+Turbina a Gás de Avançada (CCGT),3407.30,2036,3407.30,6
+Turbina a Gás de Avançada (CCGT),3407.30,2037,3407.30,6
+Turbina a Gás de Avançada (CCGT),3407.30,2038,3407.30,6
+Turbina a Gás de Avançada (CCGT),3407.30,2039,3407.30,6
+Turbina a Gás de Avançada (CCGT),3407.30,2040,3407.30,6
+Turbina a Gás de Avançada (CCGT),3407.30,2041,3407.30,6
+Turbina a Gás de Avançada (CCGT),3407.30,2042,3407.30,6
+Turbina a Gás de Avançada (CCGT),3407.30,2043,3407.30,6
+Turbina a Gás de Avançada (CCGT),3407.30,2044,3407.30,6
+Turbina a Gás de Avançada (CCGT),3407.30,2045,3407.30,6
+Turbina a Gás de Avançada (CCGT),3407.30,2046,3407.30,6
+Turbina a Gás de Avançada (CCGT),3407.30,2047,3407.30,6
+Turbina a Gás de Avançada (CCGT),3407.30,2048,3407.30,6
+Turbina a Gás de Avançada (CCGT),3407.30,2049,3407.30,6
+Turbina a Gás de Avançada (CCGT),3407.30,2050,3407.30,6
+Carvão Pulverizado Supercrítico,6413.75,2013,0,10
+Carvão Pulverizado Supercrítico,6413.75,2014,6413.75,10
+Carvão Pulverizado Supercrítico,6413.75,2015,6413.75,10
+Carvão Pulverizado Supercrítico,6413.75,2016,6413.75,10
+Carvão Pulverizado Supercrítico,6413.75,2017,6413.75,10
+Carvão Pulverizado Supercrítico,6413.75,2018,6413.75,10
+Carvão Pulverizado Supercrítico,6413.75,2019,6413.75,10
+Carvão Pulverizado Supercrítico,6413.75,2020,6413.75,10
+Carvão Pulverizado Supercrítico,6413.75,2021,6413.75,10
+Carvão Pulverizado Supercrítico,6413.75,2022,6413.75,10
+Carvão Pulverizado Supercrítico,6413.75,2023,6413.75,10
+Carvão Pulverizado Supercrítico,6413.75,2024,6413.75,9
+Carvão Pulverizado Supercrítico,6413.75,2025,6413.75,10
+Carvão Pulverizado Supercrítico,6413.75,2026,6413.75,10
+Carvão Pulverizado Supercrítico,6413.75,2027,6413.75,10
+Carvão Pulverizado Supercrítico,6413.75,2028,6413.75,10
+Carvão Pulverizado Supercrítico,6413.75,2029,6413.75,10
+Carvão Pulverizado Supercrítico,6413.75,2030,6413.75,10
+Carvão Pulverizado Supercrítico,6413.75,2031,6413.75,10
+Carvão Pulverizado Supercrítico,6413.75,2032,6413.75,10
+Carvão Pulverizado Supercrítico,6413.75,2033,6413.75,10
+Carvão Pulverizado Supercrítico,6413.75,2034,6413.75,10
+Carvão Pulverizado Supercrítico,6413.75,2035,6413.75,10
+Carvão Pulverizado Supercrítico,6413.75,2036,6413.75,10
+Carvão Pulverizado Supercrítico,6413.75,2037,6413.75,10
+Carvão Pulverizado Supercrítico,6413.75,2038,6413.75,10
+Carvão Pulverizado Supercrítico,6413.75,2039,6413.75,10
+Carvão Pulverizado Supercrítico,6413.75,2040,6413.75,10
+Carvão Pulverizado Supercrítico,6413.75,2041,6413.75,10
+Carvão Pulverizado Supercrítico,6413.75,2042,6413.75,10
+Carvão Pulverizado Supercrítico,6413.75,2043,6413.75,10
+Carvão Pulverizado Supercrítico,6413.75,2044,6413.75,10
+Carvão Pulverizado Supercrítico,6413.75,2045,6413.75,10
+Carvão Pulverizado Supercrítico,6413.75,2046,6413.75,10
+Carvão Pulverizado Supercrítico,6413.75,2047,6413.75,10
+Carvão Pulverizado Supercrítico,6413.75,2048,6413.75,10
+Carvão Pulverizado Supercrítico,6413.75,2049,6413.75,10
+Carvão Pulverizado Supercrítico,6413.75,2050,6413.75,10
+Lignito Pulverizado Supercrítico,8017.18,2013,0,12
+Lignito Pulverizado Supercrítico,8017.18,2014,8017.18,12
+Lignito Pulverizado Supercrítico,8017.18,2015,8017.18,12
+Lignito Pulverizado Supercrítico,8017.18,2016,8017.18,12
+Lignito Pulverizado Supercrítico,8017.18,2017,8017.18,12
+Lignito Pulverizado Supercrítico,8017.18,2018,8017.18,12
+Lignito Pulverizado Supercrítico,8017.18,2019,8017.18,12
+Lignito Pulverizado Supercrítico,8017.18,2020,8017.18,12
+Lignito Pulverizado Supercrítico,8017.18,2021,8017.18,12
+Lignito Pulverizado Supercrítico,8017.18,2022,8017.18,12
+Lignito Pulverizado Supercrítico,8017.18,2023,8017.18,12
+Lignito Pulverizado Supercrítico,8017.18,2024,8017.18,11
+Lignito Pulverizado Supercrítico,8017.18,2025,8017.18,12
+Lignito Pulverizado Supercrítico,8017.18,2026,8017.18,12
+Lignito Pulverizado Supercrítico,8017.18,2027,8017.18,12
+Lignito Pulverizado Supercrítico,8017.18,2028,8017.18,12
+Lignito Pulverizado Supercrítico,8017.18,2029,8017.18,12
+Lignito Pulverizado Supercrítico,8017.18,2030,8017.18,12
+Lignito Pulverizado Supercrítico,8017.18,2031,8017.18,12
+Lignito Pulverizado Supercrítico,8017.18,2032,8017.18,12
+Lignito Pulverizado Supercrítico,8017.18,2033,8017.18,12
+Lignito Pulverizado Supercrítico,8017.18,2034,8017.18,12
+Lignito Pulverizado Supercrítico,8017.18,2035,8017.18,12
+Lignito Pulverizado Supercrítico,8017.18,2036,8017.18,12
+Lignito Pulverizado Supercrítico,8017.18,2037,8017.18,12
+Lignito Pulverizado Supercrítico,8017.18,2038,8017.18,12
+Lignito Pulverizado Supercrítico,8017.18,2039,8017.18,12
+Lignito Pulverizado Supercrítico,8017.18,2040,8017.18,12
+Lignito Pulverizado Supercrítico,8017.18,2041,8017.18,12
+Lignito Pulverizado Supercrítico,8017.18,2042,8017.18,12
+Lignito Pulverizado Supercrítico,8017.18,2043,8017.18,13
+Lignito Pulverizado Supercrítico,8017.18,2044,8017.18,13
+Lignito Pulverizado Supercrítico,8017.18,2045,8017.18,13
+Lignito Pulverizado Supercrítico,8017.18,2046,8017.18,14
+Lignito Pulverizado Supercrítico,8017.18,2047,8017.18,14
+Lignito Pulverizado Supercrítico,8017.18,2048,8017.18,15
+Lignito Pulverizado Supercrítico,8017.18,2049,8017.18,15
+Lignito Pulverizado Supercrítico,8017.18,2050,8017.18,15
+Leito Fluidizado Supercrítico,7616.32,2013,0,11
+Leito Fluidizado Supercrítico,7616.32,2014,7616.32,11
+Leito Fluidizado Supercrítico,7616.32,2015,7616.32,11
+Leito Fluidizado Supercrítico,7616.32,2016,7616.32,11
+Leito Fluidizado Supercrítico,7616.32,2017,7616.32,11
+Leito Fluidizado Supercrítico,7616.32,2018,7616.32,11
+Leito Fluidizado Supercrítico,7616.32,2019,7616.32,11
+Leito Fluidizado Supercrítico,7616.32,2020,7616.32,11
+Leito Fluidizado Supercrítico,7616.32,2021,7616.32,11
+Leito Fluidizado Supercrítico,7616.32,2022,7616.32,11
+Leito Fluidizado Supercrítico,7616.32,2023,7616.32,11
+Leito Fluidizado Supercrítico,7616.32,2024,7616.32,10
+Leito Fluidizado Supercrítico,7616.32,2025,7616.32,11
+Leito Fluidizado Supercrítico,7616.32,2026,7616.32,11
+Leito Fluidizado Supercrítico,7616.32,2027,7616.32,11
+Leito Fluidizado Supercrítico,7616.32,2028,7616.32,11
+Leito Fluidizado Supercrítico,7616.32,2029,7616.32,11
+Leito Fluidizado Supercrítico,7616.32,2030,7616.32,11
+Leito Fluidizado Supercrítico,7616.32,2031,7616.32,11
+Leito Fluidizado Supercrítico,7616.32,2032,7616.32,11
+Leito Fluidizado Supercrítico,7616.32,2033,7616.32,11
+Leito Fluidizado Supercrítico,7616.32,2034,7616.32,11
+Leito Fluidizado Supercrítico,7616.32,2035,7616.32,11
+Leito Fluidizado Supercrítico,7616.32,2036,7616.32,11
+Leito Fluidizado Supercrítico,7616.32,2037,7616.32,11
+Leito Fluidizado Supercrítico,7616.32,2038,7616.32,11
+Leito Fluidizado Supercrítico,7616.32,2039,7616.32,11
+Leito Fluidizado Supercrítico,7616.32,2040,7616.32,11
+Leito Fluidizado Supercrítico,7616.32,2041,7616.32,11
+Leito Fluidizado Supercrítico,7616.32,2042,7616.32,11
+Leito Fluidizado Supercrítico,7616.32,2043,7616.32,11
+Leito Fluidizado Supercrítico,7616.32,2044,7616.32,11
+Leito Fluidizado Supercrítico,7616.32,2045,7616.32,11
+Leito Fluidizado Supercrítico,7616.32,2046,7616.32,11
+Leito Fluidizado Supercrítico,7616.32,2047,7616.32,12
+Leito Fluidizado Supercrítico,7616.32,2048,7616.32,12
+Leito Fluidizado Supercrítico,7616.32,2049,7616.32,12
+Leito Fluidizado Supercrítico,7616.32,2050,7616.32,12
+Ciclo Integrado de Gaseificação com Carvão (IGCC),10021.48,2013,0,14
+Ciclo Integrado de Gaseificação com Carvão (IGCC),9906.95,2014,10021.48,14
+Ciclo Integrado de Gaseificação com Carvão (IGCC),9792.41,2015,9906.95,14
+Ciclo Integrado de Gaseificação com Carvão (IGCC),9677.88,2016,9792.41,14
+Ciclo Integrado de Gaseificação com Carvão (IGCC),9563.35,2017,9677.88,14
+Ciclo Integrado de Gaseificação com Carvão (IGCC),9448.82,2018,9563.35,14
+Ciclo Integrado de Gaseificação com Carvão (IGCC),9334.29,2019,9448.82,14
+Ciclo Integrado de Gaseificação com Carvão (IGCC),9219.76,2020,9334.29,14
+Ciclo Integrado de Gaseificação com Carvão (IGCC),9219.76,2021,9219.76,14
+Ciclo Integrado de Gaseificação com Carvão (IGCC),9219.76,2022,9219.76,14
+Ciclo Integrado de Gaseificação com Carvão (IGCC),9219.76,2023,9219.76,14
+Ciclo Integrado de Gaseificação com Carvão (IGCC),9219.76,2024,9219.76,13
+Ciclo Integrado de Gaseificação com Carvão (IGCC),9219.76,2025,9219.76,14
+Ciclo Integrado de Gaseificação com Carvão (IGCC),9219.76,2026,9219.76,14
+Ciclo Integrado de Gaseificação com Carvão (IGCC),9219.76,2027,9219.76,14
+Ciclo Integrado de Gaseificação com Carvão (IGCC),9219.76,2028,9219.76,14
+Ciclo Integrado de Gaseificação com Carvão (IGCC),9219.76,2029,9219.76,14
+Ciclo Integrado de Gaseificação com Carvão (IGCC),9219.76,2030,9219.76,14
+Ciclo Integrado de Gaseificação com Carvão (IGCC),9219.76,2031,9219.76,14
+Ciclo Integrado de Gaseificação com Carvão (IGCC),9219.76,2032,9219.76,15
+Ciclo Integrado de Gaseificação com Carvão (IGCC),9219.76,2033,9219.76,15
+Ciclo Integrado de Gaseificação com Carvão (IGCC),9219.76,2034,9219.76,16
+Ciclo Integrado de Gaseificação com Carvão (IGCC),9219.76,2035,9219.76,16
+Ciclo Integrado de Gaseificação com Carvão (IGCC),9219.76,2036,9219.76,16
+Ciclo Integrado de Gaseificação com Carvão (IGCC),9219.76,2037,9219.76,16
+Ciclo Integrado de Gaseificação com Carvão (IGCC),9219.76,2038,9219.76,16
+Ciclo Integrado de Gaseificação com Carvão (IGCC),9219.76,2039,9219.76,17
+Ciclo Integrado de Gaseificação com Carvão (IGCC),9219.76,2040,9219.76,17
+Ciclo Integrado de Gaseificação com Carvão (IGCC),9179.67,2041,9219.76,17
+Ciclo Integrado de Gaseificação com Carvão (IGCC),9139.59,2042,9179.67,17
+Ciclo Integrado de Gaseificação com Carvão (IGCC),9099.50,2043,9139.59,17
+Ciclo Integrado de Gaseificação com Carvão (IGCC),9059.42,2044,9099.50,17
+Ciclo Integrado de Gaseificação com Carvão (IGCC),9019.33,2045,9059.42,17
+Ciclo Integrado de Gaseificação com Carvão (IGCC),8979.24,2046,9019.33,17
+Ciclo Integrado de Gaseificação com Carvão (IGCC),8939.16,2047,8979.24,17
+Ciclo Integrado de Gaseificação com Carvão (IGCC),8899.07,2048,8939.16,17
+Ciclo Integrado de Gaseificação com Carvão (IGCC),8858.99,2049,8899.07,17
+Ciclo Integrado de Gaseificação com Carvão (IGCC),8818.90,2050,8858.99,16
+Ciclo Integrado de Gaseificação com Lignito,12426.63,2013,0,18
+Ciclo Integrado de Gaseificação com Lignito,12369.37,2014,12426.63,19
+Ciclo Integrado de Gaseificação com Lignito,12312.10,2015,12369.37,19
+Ciclo Integrado de Gaseificação com Lignito,12254.83,2016,12312.10,19
+Ciclo Integrado de Gaseificação com Lignito,12197.57,2017,12254.83,19
+Ciclo Integrado de Gaseificação com Lignito,12140.30,2018,12197.57,19
+Ciclo Integrado de Gaseificação com Lignito,12083.04,2019,12140.30,20
+Ciclo Integrado de Gaseificação com Lignito,12025.77,2020,12083.04,20
+Ciclo Integrado de Gaseificação com Lignito,12025.77,2021,12025.77,20
+Ciclo Integrado de Gaseificação com Lignito,12025.77,2022,12025.77,20
+Ciclo Integrado de Gaseificação com Lignito,12025.77,2023,12025.77,20
+Ciclo Integrado de Gaseificação com Lignito,12025.77,2024,12025.77,19
+Ciclo Integrado de Gaseificação com Lignito,12025.77,2025,12025.77,21
+Ciclo Integrado de Gaseificação com Lignito,12025.77,2026,12025.77,21
+Ciclo Integrado de Gaseificação com Lignito,12025.77,2027,12025.77,21
+Ciclo Integrado de Gaseificação com Lignito,12025.77,2028,12025.77,21
+Ciclo Integrado de Gaseificação com Lignito,12025.77,2029,12025.77,21
+Ciclo Integrado de Gaseificação com Lignito,12025.77,2030,12025.77,22
+Ciclo Integrado de Gaseificação com Lignito,12025.77,2031,12025.77,22
+Ciclo Integrado de Gaseificação com Lignito,12025.77,2032,12025.77,23
+Ciclo Integrado de Gaseificação com Lignito,12025.77,2033,12025.77,23
+Ciclo Integrado de Gaseificação com Lignito,12025.77,2034,12025.77,23
+Ciclo Integrado de Gaseificação com Lignito,12025.77,2035,12025.77,24
+Ciclo Integrado de Gaseificação com Lignito,12025.77,2036,12025.77,24
+Ciclo Integrado de Gaseificação com Lignito,12025.77,2037,12025.77,24
+Ciclo Integrado de Gaseificação com Lignito,12025.77,2038,12025.77,24
+Ciclo Integrado de Gaseificação com Lignito,12025.77,2039,12025.77,25
+Ciclo Integrado de Gaseificação com Lignito,12025.77,2040,12025.77,25
+Ciclo Integrado de Gaseificação com Lignito,12025.77,2041,12025.77,25
+Ciclo Integrado de Gaseificação com Lignito,12025.77,2042,12025.77,25
+Ciclo Integrado de Gaseificação com Lignito,12025.77,2043,12025.77,25
+Ciclo Integrado de Gaseificação com Lignito,12025.77,2044,12025.77,25
+Ciclo Integrado de Gaseificação com Lignito,12025.77,2045,12025.77,25
+Ciclo Integrado de Gaseificação com Lignito,12025.77,2046,12025.77,25
+Ciclo Integrado de Gaseificação com Lignito,12025.77,2047,12025.77,25
+Ciclo Integrado de Gaseificação com Lignito,12025.77,2048,12025.77,25
+Ciclo Integrado de Gaseificação com Lignito,12025.77,2049,12025.77,25
+Ciclo Integrado de Gaseificação com Lignito,12025.77,2050,12025.77,25
+Turbina com Forno a Grelha,11584.83,2013,0,15
+Turbina com Forno a Grelha,11430.21,2014,11584.83,15
+Turbina com Forno a Grelha,11275.59,2015,11430.21,15
+Turbina com Forno a Grelha,11120.98,2016,11275.59,15
+Turbina com Forno a Grelha,10966.36,2017,11120.98,15
+Turbina com Forno a Grelha,10811.74,2018,10966.36,15
+Turbina com Forno a Grelha,10657.12,2019,10811.74,15
+Turbina com Forno a Grelha,10502.51,2020,10657.12,15
+Turbina com Forno a Grelha,10402.29,2021,10502.51,16
+Turbina com Forno a Grelha,10302.08,2022,10402.29,16
+Turbina com Forno a Grelha,10201.86,2023,10302.08,16
+Turbina com Forno a Grelha,10101.65,2024,10201.86,15
+Turbina com Forno a Grelha,10001.43,2025,10101.65,16
+Turbina com Forno a Grelha,9901.22,2026,10001.43,16
+Turbina com Forno a Grelha,9801.00,2027,9901.22,16
+Turbina com Forno a Grelha,9700.79,2028,9801.00,16
+Turbina com Forno a Grelha,9600.57,2029,9700.79,16
+Turbina com Forno a Grelha,9500.36,2030,9600.57,16
+Turbina com Forno a Grelha,9412.17,2031,9500.36,16
+Turbina com Forno a Grelha,9323.98,2032,9412.17,16
+Turbina com Forno a Grelha,9235.79,2033,9323.98,16
+Turbina com Forno a Grelha,9147.60,2034,9235.79,15
+Turbina com Forno a Grelha,9059.42,2035,9147.60,15
+Turbina com Forno a Grelha,8971.23,2036,9059.42,15
+Turbina com Forno a Grelha,8883.04,2037,8971.23,15
+Turbina com Forno a Grelha,8794.85,2038,8883.04,14
+Turbina com Forno a Grelha,8706.66,2039,8794.85,14
+Turbina com Forno a Grelha,8618.47,2040,8706.66,15
+Turbina com Forno a Grelha,8538.30,2041,8618.47,15
+Turbina com Forno a Grelha,8458.13,2042,8538.30,15
+Turbina com Forno a Grelha,8377.95,2043,8458.13,15
+Turbina com Forno a Grelha,8297.78,2044,8377.95,15
+Turbina com Forno a Grelha,8217.61,2045,8297.78,15
+Turbina com Forno a Grelha,8137.44,2046,8217.61,15
+Turbina com Forno a Grelha,8057.27,2047,8137.44,15
+Turbina com Forno a Grelha,7977.10,2048,8057.27,14
+Turbina com Forno a Grelha,7896.92,2049,7977.10,14
+Turbina com Forno a Grelha,7816.75,2050,7896.92,14
+Caldeira de leito Fluidizado com Turbina a Vapor,11865.43,2013,0,16
+Caldeira de leito Fluidizado com Turbina a Vapor,11670.73,2014,11865.43,16
+Caldeira de leito Fluidizado com Turbina a Vapor,11476.02,2015,11670.73,16
+Caldeira de leito Fluidizado com Turbina a Vapor,11281.32,2016,11476.02,16
+Caldeira de leito Fluidizado com Turbina a Vapor,11086.62,2017,11281.32,16
+Caldeira de leito Fluidizado com Turbina a Vapor,10891.91,2018,11086.62,16
+Caldeira de leito Fluidizado com Turbina a Vapor,10697.21,2019,10891.91,16
+Caldeira de leito Fluidizado com Turbina a Vapor,10502.51,2020,10697.21,15
+Caldeira de leito Fluidizado com Turbina a Vapor,10386.26,2021,10502.51,15
+Caldeira de leito Fluidizado com Turbina a Vapor,10270.01,2022,10386.26,15
+Caldeira de leito Fluidizado com Turbina a Vapor,10153.76,2023,10270.01,15
+Caldeira de leito Fluidizado com Turbina a Vapor,10037.51,2024,10153.76,14
+Caldeira de leito Fluidizado com Turbina a Vapor,9921.26,2025,10037.51,15
+Caldeira de leito Fluidizado com Turbina a Vapor,9805.01,2026,9921.26,15
+Caldeira de leito Fluidizado com Turbina a Vapor,9688.76,2027,9805.01,15
+Caldeira de leito Fluidizado com Turbina a Vapor,9572.51,2028,9688.76,15
+Caldeira de leito Fluidizado com Turbina a Vapor,9456.27,2029,9572.51,15
+Caldeira de leito Fluidizado com Turbina a Vapor,9340.02,2030,9456.27,15
+Caldeira de leito Fluidizado com Turbina a Vapor,9231.78,2031,9340.02,15
+Caldeira de leito Fluidizado com Turbina a Vapor,9123.55,2032,9231.78,14
+Caldeira de leito Fluidizado com Turbina a Vapor,9015.32,2033,9123.55,14
+Caldeira de leito Fluidizado com Turbina a Vapor,8907.09,2034,9015.32,14
+Caldeira de leito Fluidizado com Turbina a Vapor,8798.86,2035,8907.09,13
+Caldeira de leito Fluidizado com Turbina a Vapor,8690.62,2036,8798.86,13
+Caldeira de leito Fluidizado com Turbina a Vapor,8582.39,2037,8690.62,13
+Caldeira de leito Fluidizado com Turbina a Vapor,8474.16,2038,8582.39,13
+Caldeira de leito Fluidizado com Turbina a Vapor,8365.93,2039,8474.16,13
+Caldeira de leito Fluidizado com Turbina a Vapor,8257.70,2040,8365.93,13
+Caldeira de leito Fluidizado com Turbina a Vapor,8165.50,2041,8257.70,13
+Caldeira de leito Fluidizado com Turbina a Vapor,8073.30,2042,8165.50,13
+Caldeira de leito Fluidizado com Turbina a Vapor,7981.10,2043,8073.30,12
+Caldeira de leito Fluidizado com Turbina a Vapor,7888.91,2044,7981.10,12
+Caldeira de leito Fluidizado com Turbina a Vapor,7796.71,2045,7888.91,12
+Caldeira de leito Fluidizado com Turbina a Vapor,7704.51,2046,7796.71,12
+Caldeira de leito Fluidizado com Turbina a Vapor,7612.31,2047,7704.51,11
+Caldeira de leito Fluidizado com Turbina a Vapor,7520.12,2048,7612.31,11
+Caldeira de leito Fluidizado com Turbina a Vapor,7427.92,2049,7520.12,11
+Caldeira de leito Fluidizado com Turbina a Vapor,7335.72,2050,7427.92,11
+Biomassa IGCC,19281.32,2013,0,24
+Biomassa IGCC,18708.67,2014,19281.32,24
+Biomassa IGCC,18136.01,2015,18708.67,24
+Biomassa IGCC,17563.35,2016,18136.01,23
+Biomassa IGCC,16990.70,2017,17563.35,23
+Biomassa IGCC,16418.04,2018,16990.70,23
+Biomassa IGCC,15845.39,2019,16418.04,23
+Biomassa IGCC,15272.73,2020,15845.39,23
+Biomassa IGCC,15004.16,2021,15272.73,23
+Biomassa IGCC,14735.58,2022,15004.16,23
+Biomassa IGCC,14467.00,2023,14735.58,23
+Biomassa IGCC,14198.43,2024,14467.00,22
+Biomassa IGCC,13929.85,2025,14198.43,23
+Biomassa IGCC,13661.28,2026,13929.85,23
+Biomassa IGCC,13392.70,2027,13661.28,23
+Biomassa IGCC,13124.13,2028,13392.70,23
+Biomassa IGCC,12855.55,2029,13124.13,23
+Biomassa IGCC,12586.97,2030,12855.55,24
+Biomassa IGCC,12466.72,2031,12586.97,24
+Biomassa IGCC,12346.46,2032,12466.72,24
+Biomassa IGCC,12226.20,2033,12346.46,24
+Biomassa IGCC,12105.94,2034,12226.20,24
+Biomassa IGCC,11985.69,2035,12105.94,23
+Biomassa IGCC,11865.43,2036,11985.69,23
+Biomassa IGCC,11745.17,2037,11865.43,23
+Biomassa IGCC,11624.91,2038,11745.17,23
+Biomassa IGCC,11504.66,2039,11624.91,24
+Biomassa IGCC,11384.40,2040,11504.66,24
+Biomassa IGCC,11272.16,2041,11384.40,23
+Biomassa IGCC,11159.92,2042,11272.16,23
+Biomassa IGCC,11047.68,2043,11159.92,23
+Biomassa IGCC,10935.44,2044,11047.68,23
+Biomassa IGCC,10823.20,2045,10935.44,23
+Biomassa IGCC,10710.95,2046,10823.20,23
+Biomassa IGCC,10598.71,2047,10710.95,23
+Biomassa IGCC,10486.47,2048,10598.71,23
+Biomassa IGCC,10374.23,2049,10486.47,23
+Biomassa IGCC,10261.99,2050,10374.23,23
+Digestão Anaeróbica,15553.33,2013,0,22
+Digestão Anaeróbica,15152.47,2014,15553.33,22
+Digestão Anaeróbica,14751.61,2015,15152.47,22
+Digestão Anaeróbica,14350.75,2016,14751.61,22
+Digestão Anaeróbica,13949.90,2017,14350.75,22
+Digestão Anaeróbica,13549.04,2018,13949.90,21
+Digestão Anaeróbica,13148.18,2019,13549.04,21
+Digestão Anaeróbica,12747.32,2020,13148.18,21
+Digestão Anaeróbica,12578.96,2021,12747.32,21
+Digestão Anaeróbica,12410.60,2022,12578.96,21
+Digestão Anaeróbica,12242.24,2023,12410.60,21
+Digestão Anaeróbica,12073.88,2024,12242.24,20
+Digestão Anaeróbica,11905.51,2025,12073.88,20
+Digestão Anaeróbica,11737.15,2026,11905.51,20
+Digestão Anaeróbica,11568.79,2027,11737.15,20
+Digestão Anaeróbica,11400.43,2028,11568.79,20
+Digestão Anaeróbica,11232.07,2029,11400.43,19
+Digestão Anaeróbica,11063.71,2030,11232.07,19
+Digestão Anaeróbica,10967.50,2031,11063.71,19
+Digestão Anaeróbica,10871.30,2032,10967.50,19
+Digestão Anaeróbica,10775.09,2033,10871.30,19
+Digestão Anaeróbica,10678.89,2034,10775.09,19
+Digestão Anaeróbica,10582.68,2035,10678.89,20
+Digestão Anaeróbica,10486.47,2036,10582.68,20
+Digestão Anaeróbica,10390.27,2037,10486.47,20
+Digestão Anaeróbica,10294.06,2038,10390.27,20
+Digestão Anaeróbica,10197.85,2039,10294.06,19
+Digestão Anaeróbica,10101.65,2040,10197.85,19
+Digestão Anaeróbica,10013.46,2041,10101.65,19
+Digestão Anaeróbica,9925.27,2042,10013.46,19
+Digestão Anaeróbica,9837.08,2043,9925.27,19
+Digestão Anaeróbica,9748.89,2044,9837.08,19
+Digestão Anaeróbica,9660.70,2045,9748.89,19
+Digestão Anaeróbica,9572.51,2046,9660.70,19
+Digestão Anaeróbica,9484.33,2047,9572.51,19
+Digestão Anaeróbica,9396.14,2048,9484.33,19
+Digestão Anaeróbica,9307.95,2049,9396.14,19
+Digestão Anaeróbica,9219.76,2050,9307.95,19
+Incineração de Lixo Municipal,24372.23,2013,0,26
+Incineração de Lixo Municipal,24114.54,2014,24372.23,26
+Incineração de Lixo Municipal,23856.84,2015,24114.54,26
+Incineração de Lixo Municipal,23599.15,2016,23856.84,26
+Incineração de Lixo Municipal,23341.45,2017,23599.15,26
+Incineração de Lixo Municipal,23083.76,2018,23341.45,26
+Incineração de Lixo Municipal,22826.06,2019,23083.76,27
+Incineração de Lixo Municipal,22568.37,2020,22826.06,27
+Incineração de Lixo Municipal,22412.03,2021,22568.37,27
+Incineração de Lixo Municipal,22255.70,2022,22412.03,28
+Incineração de Lixo Municipal,22099.36,2023,22255.70,28
+Incineração de Lixo Municipal,21943.03,2024,22099.36,27
+Incineração de Lixo Municipal,21786.69,2025,21943.03,28
+Incineração de Lixo Municipal,21630.36,2026,21786.69,28
+Incineração de Lixo Municipal,21474.02,2027,21630.36,28
+Incineração de Lixo Municipal,21317.69,2028,21474.02,28
+Incineração de Lixo Municipal,21161.35,2029,21317.69,28
+Incineração de Lixo Municipal,21005.02,2030,21161.35,28
+Incineração de Lixo Municipal,20856.70,2031,21005.02,28
+Incineração de Lixo Municipal,20708.38,2032,20856.70,28
+Incineração de Lixo Municipal,20560.06,2033,20708.38,28
+Incineração de Lixo Municipal,20411.74,2034,20560.06,28
+Incineração de Lixo Municipal,20263.43,2035,20411.74,28
+Incineração de Lixo Municipal,20115.11,2036,20263.43,28
+Incineração de Lixo Municipal,19966.79,2037,20115.11,28
+Incineração de Lixo Municipal,19818.47,2038,19966.79,28
+Incineração de Lixo Municipal,19670.15,2039,19818.47,28
+Incineração de Lixo Municipal,19521.84,2040,19670.15,28
+Incineração de Lixo Municipal,19389.55,2041,19521.84,28
+Incineração de Lixo Municipal,19257.27,2042,19389.55,28
+Incineração de Lixo Municipal,19124.99,2043,19257.27,28
+Incineração de Lixo Municipal,18992.70,2044,19124.99,28
+Incineração de Lixo Municipal,18860.42,2045,18992.70,28
+Incineração de Lixo Municipal,18728.14,2046,18860.42,28
+Incineração de Lixo Municipal,18595.85,2047,18728.14,28
+Incineração de Lixo Municipal,18463.57,2048,18595.85,28
+Incineração de Lixo Municipal,18331.29,2049,18463.57,28
+Incineração de Lixo Municipal,18199.00,2050,18331.29,28
+Biomassa CHP,14711.53,2013,0,21
+Biomassa CHP,14499.65,2014,14711.53,21
+Biomassa CHP,14287.76,2015,14499.65,21
+Biomassa CHP,14075.88,2016,14287.76,21
+Biomassa CHP,13864.00,2017,14075.88,21
+Biomassa CHP,13652.11,2018,13864.00,22
+Biomassa CHP,13440.23,2019,13652.11,22
+Biomassa CHP,13228.35,2020,13440.23,22
+Biomassa CHP,13104.08,2021,13228.35,22
+Biomassa CHP,12979.82,2022,13104.08,22
+Biomassa CHP,12855.55,2023,12979.82,22
+Biomassa CHP,12731.28,2024,12855.55,21
+Biomassa CHP,12607.02,2025,12731.28,22
+Biomassa CHP,12482.75,2026,12607.02,22
+Biomassa CHP,12358.49,2027,12482.75,22
+Biomassa CHP,12234.22,2028,12358.49,22
+Biomassa CHP,12109.95,2029,12234.22,22
+Biomassa CHP,11985.69,2030,12109.95,21
+Biomassa CHP,11889.48,2031,11985.69,21
+Biomassa CHP,11793.27,2032,11889.48,22
+Biomassa CHP,11697.07,2033,11793.27,22
+Biomassa CHP,11600.86,2034,11697.07,22
+Biomassa CHP,11504.66,2035,11600.86,22
+Biomassa CHP,11408.45,2036,11504.66,22
+Biomassa CHP,11312.24,2037,11408.45,21
+Biomassa CHP,11216.04,2038,11312.24,21
+Biomassa CHP,11119.83,2039,11216.04,21
+Biomassa CHP,11023.62,2040,11119.83,22
+Biomassa CHP,10939.44,2041,11023.62,22
+Biomassa CHP,10855.26,2042,10939.44,22
+Biomassa CHP,10771.08,2043,10855.26,22
+Biomassa CHP,10686.90,2044,10771.08,22
+Biomassa CHP,10602.72,2045,10686.90,22
+Biomassa CHP,10518.54,2046,10602.72,22
+Biomassa CHP,10434.36,2047,10518.54,22
+Biomassa CHP,10350.18,2048,10434.36,22
+Biomassa CHP,10266.00,2049,10350.18,22
+Biomassa CHP,10181.82,2050,10266.00,21
+CCGT convencional CHP,3527.56,2013,0,4
+CCGT convencional CHP, -   ,2014,3527.56,1
+CCGT convencional CHP, -   ,2015, -   ,1
+CCGT convencional CHP, -   ,2016, -   ,1
+CCGT convencional CHP, -   ,2017, -   ,1
+CCGT convencional CHP, -   ,2018, -   ,1
+CCGT convencional CHP, -   ,2019, -   ,1
+CCGT convencional CHP, -   ,2020, -   ,1
+CCGT convencional CHP, -   ,2021, -   ,1
+CCGT convencional CHP, -   ,2022, -   ,1
+CCGT convencional CHP, -   ,2023, -   ,1
+CCGT convencional CHP, -   ,2024, -   ,1
+CCGT convencional CHP, -   ,2025, -   ,1
+CCGT convencional CHP, -   ,2026, -   ,1
+CCGT convencional CHP, -   ,2027, -   ,1
+CCGT convencional CHP, -   ,2028, -   ,1
+CCGT convencional CHP, -   ,2029, -   ,1
+CCGT convencional CHP, -   ,2030, -   ,1
+CCGT convencional CHP, -   ,2031, -   ,1
+CCGT convencional CHP, -   ,2032, -   ,1
+CCGT convencional CHP, -   ,2033, -   ,1
+CCGT convencional CHP, -   ,2034, -   ,1
+CCGT convencional CHP, -   ,2035, -   ,1
+CCGT convencional CHP, -   ,2036, -   ,1
+CCGT convencional CHP, -   ,2037, -   ,1
+CCGT convencional CHP, -   ,2038, -   ,1
+CCGT convencional CHP, -   ,2039, -   ,1
+CCGT convencional CHP, -   ,2040, -   ,1
+CCGT convencional CHP, -   ,2041, -   ,1
+CCGT convencional CHP, -   ,2042, -   ,1
+CCGT convencional CHP, -   ,2043, -   ,1
+CCGT convencional CHP, -   ,2044, -   ,1
+CCGT convencional CHP, -   ,2045, -   ,1
+CCGT convencional CHP, -   ,2046, -   ,1
+CCGT convencional CHP, -   ,2047, -   ,1
+CCGT convencional CHP, -   ,2048, -   ,1
+CCGT convencional CHP, -   ,2049, -   ,1
+CCGT convencional CHP, -   ,2050, -   ,1
+Co-combustão de biomassa e retrofit para queima de carvão (forno de carvão ou leito fluidizado),2004.30,2013,0,1
+Co-combustão de biomassa e retrofit para queima de carvão (forno de carvão ou leito fluidizado),1981.39,2014,2004.30,3
+Co-combustão de biomassa e retrofit para queima de carvão (forno de carvão ou leito fluidizado),1958.48,2015,1981.39,3
+Co-combustão de biomassa e retrofit para queima de carvão (forno de carvão ou leito fluidizado),1935.58,2016,1958.48,3
+Co-combustão de biomassa e retrofit para queima de carvão (forno de carvão ou leito fluidizado),1912.67,2017,1935.58,3
+Co-combustão de biomassa e retrofit para queima de carvão (forno de carvão ou leito fluidizado),1889.76,2018,1912.67,3
+Co-combustão de biomassa e retrofit para queima de carvão (forno de carvão ou leito fluidizado),1866.86,2019,1889.76,3
+Co-combustão de biomassa e retrofit para queima de carvão (forno de carvão ou leito fluidizado),1843.95,2020,1866.86,3
+Co-combustão de biomassa e retrofit para queima de carvão (forno de carvão ou leito fluidizado),1827.92,2021,1843.95,3
+Co-combustão de biomassa e retrofit para queima de carvão (forno de carvão ou leito fluidizado),1811.88,2022,1827.92,3
+Co-combustão de biomassa e retrofit para queima de carvão (forno de carvão ou leito fluidizado),1795.85,2023,1811.88,3
+Co-combustão de biomassa e retrofit para queima de carvão (forno de carvão ou leito fluidizado),1779.81,2024,1795.85,2
+Co-combustão de biomassa e retrofit para queima de carvão (forno de carvão ou leito fluidizado),1763.78,2025,1779.81,3
+Co-combustão de biomassa e retrofit para queima de carvão (forno de carvão ou leito fluidizado),1747.75,2026,1763.78,3
+Co-combustão de biomassa e retrofit para queima de carvão (forno de carvão ou leito fluidizado),1731.71,2027,1747.75,3
+Co-combustão de biomassa e retrofit para queima de carvão (forno de carvão ou leito fluidizado),1715.68,2028,1731.71,3
+Co-combustão de biomassa e retrofit para queima de carvão (forno de carvão ou leito fluidizado),1699.64,2029,1715.68,3
+Co-combustão de biomassa e retrofit para queima de carvão (forno de carvão ou leito fluidizado),1683.61,2030,1699.64,3
+Co-combustão de biomassa e retrofit para queima de carvão (forno de carvão ou leito fluidizado),1671.58,2031,1683.61,3
+Co-combustão de biomassa e retrofit para queima de carvão (forno de carvão ou leito fluidizado),1659.56,2032,1671.58,3
+Co-combustão de biomassa e retrofit para queima de carvão (forno de carvão ou leito fluidizado),1647.53,2033,1659.56,3
+Co-combustão de biomassa e retrofit para queima de carvão (forno de carvão ou leito fluidizado),1635.51,2034,1647.53,3
+Co-combustão de biomassa e retrofit para queima de carvão (forno de carvão ou leito fluidizado),1623.48,2035,1635.51,3
+Co-combustão de biomassa e retrofit para queima de carvão (forno de carvão ou leito fluidizado),1611.45,2036,1623.48,3
+Co-combustão de biomassa e retrofit para queima de carvão (forno de carvão ou leito fluidizado),1599.43,2037,1611.45,3
+Co-combustão de biomassa e retrofit para queima de carvão (forno de carvão ou leito fluidizado),1587.40,2038,1599.43,3
+Co-combustão de biomassa e retrofit para queima de carvão (forno de carvão ou leito fluidizado),1575.38,2039,1587.40,3
+Co-combustão de biomassa e retrofit para queima de carvão (forno de carvão ou leito fluidizado),1563.35,2040,1575.38,3
+Co-combustão de biomassa e retrofit para queima de carvão (forno de carvão ou leito fluidizado),1551.32,2041,1563.35,3
+Co-combustão de biomassa e retrofit para queima de carvão (forno de carvão ou leito fluidizado),1539.30,2042,1551.32,3
+Co-combustão de biomassa e retrofit para queima de carvão (forno de carvão ou leito fluidizado),1527.27,2043,1539.30,3
+Co-combustão de biomassa e retrofit para queima de carvão (forno de carvão ou leito fluidizado),1515.25,2044,1527.27,3
+Co-combustão de biomassa e retrofit para queima de carvão (forno de carvão ou leito fluidizado),1503.22,2045,1515.25,3
+Co-combustão de biomassa e retrofit para queima de carvão (forno de carvão ou leito fluidizado),1491.20,2046,1503.22,3
+Co-combustão de biomassa e retrofit para queima de carvão (forno de carvão ou leito fluidizado),1479.17,2047,1491.20,3
+Co-combustão de biomassa e retrofit para queima de carvão (forno de carvão ou leito fluidizado),1467.14,2048,1479.17,3
+Co-combustão de biomassa e retrofit para queima de carvão (forno de carvão ou leito fluidizado),1455.12,2049,1467.14,3
+Co-combustão de biomassa e retrofit para queima de carvão (forno de carvão ou leito fluidizado),1443.09,2050,1455.12,3
+CCGT avançada CCS após combustão,6012.89,2013,0,9
+CCGT avançada CCS após combustão,6012.89,2014,6012.89,9
+CCGT avançada CCS após combustão,6012.89,2015,6012.89,9
+CCGT avançada CCS após combustão,6012.89,2016,6012.89,9
+CCGT avançada CCS após combustão,6012.89,2017,6012.89,9
+CCGT avançada CCS após combustão,6012.89,2018,6012.89,9
+CCGT avançada CCS após combustão,6012.89,2019,6012.89,9
+CCGT avançada CCS após combustão,6012.89,2020,6012.89,9
+CCGT avançada CCS após combustão,6012.89,2021,6012.89,9
+CCGT avançada CCS após combustão,6012.89,2022,6012.89,9
+CCGT avançada CCS após combustão,6012.89,2023,6012.89,9
+CCGT avançada CCS após combustão,6012.89,2024,6012.89,8
+CCGT avançada CCS após combustão,6012.89,2025,6012.89,9
+CCGT avançada CCS após combustão,6012.89,2026,6012.89,9
+CCGT avançada CCS após combustão,6012.89,2027,6012.89,9
+CCGT avançada CCS após combustão,6012.89,2028,6012.89,9
+CCGT avançada CCS após combustão,6012.89,2029,6012.89,9
+CCGT avançada CCS após combustão,6012.89,2030,6012.89,9
+CCGT avançada CCS após combustão,6012.89,2031,6012.89,9
+CCGT avançada CCS após combustão,6012.89,2032,6012.89,9
+CCGT avançada CCS após combustão,6012.89,2033,6012.89,9
+CCGT avançada CCS após combustão,6012.89,2034,6012.89,9
+CCGT avançada CCS após combustão,6012.89,2035,6012.89,9
+CCGT avançada CCS após combustão,6012.89,2036,6012.89,9
+CCGT avançada CCS após combustão,6012.89,2037,6012.89,9
+CCGT avançada CCS após combustão,6012.89,2038,6012.89,9
+CCGT avançada CCS após combustão,6012.89,2039,6012.89,9
+CCGT avançada CCS após combustão,6012.89,2040,6012.89,9
+CCGT avançada CCS após combustão,6012.89,2041,6012.89,9
+CCGT avançada CCS após combustão,6012.89,2042,6012.89,9
+CCGT avançada CCS após combustão,6012.89,2043,6012.89,9
+CCGT avançada CCS após combustão,6012.89,2044,6012.89,9
+CCGT avançada CCS após combustão,6012.89,2045,6012.89,9
+CCGT avançada CCS após combustão,6012.89,2046,6012.89,9
+CCGT avançada CCS após combustão,6012.89,2047,6012.89,9
+CCGT avançada CCS após combustão,6012.89,2048,6012.89,9
+CCGT avançada CCS após combustão,6012.89,2049,6012.89,9
+CCGT avançada CCS após combustão,6012.89,2050,6012.89,9
+CCS oxyfuel,12025.77,2013,0,17
+CCS oxyfuel,11853.98,2014,12025.77,17
+CCS oxyfuel,11682.18,2015,11853.98,17
+CCS oxyfuel,11510.38,2016,11682.18,17
+CCS oxyfuel,11338.59,2017,11510.38,17
+CCS oxyfuel,11166.79,2018,11338.59,17
+CCS oxyfuel,10994.99,2019,11166.79,17
+CCS oxyfuel,10823.20,2020,10994.99,17
+CCS oxyfuel,10763.07,2021,10823.20,17
+CCS oxyfuel,10702.94,2022,10763.07,17
+CCS oxyfuel,10642.81,2023,10702.94,17
+CCS oxyfuel,10582.68,2024,10642.81,16
+CCS oxyfuel,10522.55,2025,10582.68,17
+CCS oxyfuel,10462.42,2026,10522.55,17
+CCS oxyfuel,10402.29,2027,10462.42,17
+CCS oxyfuel,10342.16,2028,10402.29,17
+CCS oxyfuel,10282.04,2029,10342.16,17
+CCS oxyfuel,10221.91,2030,10282.04,17
+CCS oxyfuel,10221.91,2031,10221.91,17
+CCS oxyfuel,10221.91,2032,10221.91,18
+CCS oxyfuel,10221.91,2033,10221.91,18
+CCS oxyfuel,10221.91,2034,10221.91,18
+CCS oxyfuel,10221.91,2035,10221.91,18
+CCS oxyfuel,10221.91,2036,10221.91,19
+CCS oxyfuel,10221.91,2037,10221.91,19
+CCS oxyfuel,10221.91,2038,10221.91,19
+CCS oxyfuel,10221.91,2039,10221.91,20
+CCS oxyfuel,10221.91,2040,10221.91,20
+CCS oxyfuel,10221.91,2041,10221.91,20
+CCS oxyfuel,10221.91,2042,10221.91,20
+CCS oxyfuel,10221.91,2043,10221.91,21
+CCS oxyfuel,10221.91,2044,10221.91,21
+CCS oxyfuel,10221.91,2045,10221.91,21
+CCS oxyfuel,10221.91,2046,10221.91,21
+CCS oxyfuel,10221.91,2047,10221.91,21
+CCS oxyfuel,10221.91,2048,10221.91,21
+CCS oxyfuel,10221.91,2049,10221.91,21
+CCS oxyfuel,10221.91,2050,10221.91,22
+IGCC CCS pre-combustão,12426.63,2013,0,18
+IGCC CCS pre-combustão,12303.51,2014,12426.63,18
+IGCC CCS pre-combustão,12180.39,2015,12303.51,18
+IGCC CCS pre-combustão,12057.27,2016,12180.39,18
+IGCC CCS pre-combustão,11934.15,2017,12057.27,18
+IGCC CCS pre-combustão,11811.03,2018,11934.15,18
+IGCC CCS pre-combustão,11687.91,2019,11811.03,18
+IGCC CCS pre-combustão,11564.78,2020,11687.91,19
+IGCC CCS pre-combustão,11540.73,2021,11564.78,19
+IGCC CCS pre-combustão,11516.68,2022,11540.73,19
+IGCC CCS pre-combustão,11492.63,2023,11516.68,19
+IGCC CCS pre-combustão,11468.58,2024,11492.63,18
+IGCC CCS pre-combustão,11444.53,2025,11468.58,19
+IGCC CCS pre-combustão,11420.48,2026,11444.53,19
+IGCC CCS pre-combustão,11396.42,2027,11420.48,19
+IGCC CCS pre-combustão,11372.37,2028,11396.42,19
+IGCC CCS pre-combustão,11348.32,2029,11372.37,20
+IGCC CCS pre-combustão,11324.27,2030,11348.32,20
+IGCC CCS pre-combustão,11324.27,2031,11324.27,20
+IGCC CCS pre-combustão,11324.27,2032,11324.27,20
+IGCC CCS pre-combustão,11324.27,2033,11324.27,21
+IGCC CCS pre-combustão,11324.27,2034,11324.27,21
+IGCC CCS pre-combustão,11324.27,2035,11324.27,21
+IGCC CCS pre-combustão,11324.27,2036,11324.27,21
+IGCC CCS pre-combustão,11324.27,2037,11324.27,22
+IGCC CCS pre-combustão,11324.27,2038,11324.27,22
+IGCC CCS pre-combustão,11324.27,2039,11324.27,22
+IGCC CCS pre-combustão,11324.27,2040,11324.27,23
+IGCC CCS pre-combustão,11324.27,2041,11324.27,24
+IGCC CCS pre-combustão,11324.27,2042,11324.27,24
+IGCC CCS pre-combustão,11324.27,2043,11324.27,24
+IGCC CCS pre-combustão,11324.27,2044,11324.27,24
+IGCC CCS pre-combustão,11324.27,2045,11324.27,24
+IGCC CCS pre-combustão,11324.27,2046,11324.27,24
+IGCC CCS pre-combustão,11324.27,2047,11324.27,24
+IGCC CCS pre-combustão,11324.27,2048,11324.27,24
+IGCC CCS pre-combustão,11324.27,2049,11324.27,24
+IGCC CCS pre-combustão,11324.27,2050,11324.27,24
